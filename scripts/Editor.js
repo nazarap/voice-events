@@ -15,7 +15,7 @@ export default class Editor {
       , speechend: []
       , error: []
     };
-    this.recognition.lang = "uk-UA";
+    this.recognition.lang = "en-GB";
     this.recognition.continuous = true;
     this.recognition.interimResults = true;
   }
