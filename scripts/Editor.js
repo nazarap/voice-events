@@ -7,6 +7,8 @@ export default class Editor {
     this.events = null;
     this.init();
     this.attachEvents();
+    this.result = null;
+    this.timeout = null;
   }
   init () {
     this.events = {
@@ -26,12 +28,18 @@ export default class Editor {
       const mobileRepeatBug = (current === 1 && transcript === event.results[0][0].transcript)
 
       if(!mobileRepeatBug) {
-        const result = transcript.toLowerCase()
-        this.events.result.forEach(fn => fn(result))
+        const result = transcript.toLowerCase();
+        this.result = result;
+        if (this.timeout) {
+            clearTimeout(this.timeout);
+        }
+        this.timeout = setTimeout(() => {
+            this.events.result.forEach(fn => fn(this.result));
+        }, 500);
       }
     };
     this.recognition.onstart = event => this.events.start.forEach(fn => fn(event))
-    this.recognition.onspeechend = event => this.events.speechend.forEach(fn => fn(event))
+    this.recognition.onspeechend = event => this.events.speechend.forEach(fn => fn(event));
     this.recognition.onerror = event => this.events.error.forEach(fn => fn())
   }
   addEvent (type, callback) {
