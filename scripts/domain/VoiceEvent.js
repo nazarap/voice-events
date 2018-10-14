@@ -1,7 +1,7 @@
 export default class VoiceEvent {
 
-    constructor(command, nestedEvents, withParams) {
-        this.command = command || '';
+    constructor(command = '', nestedEvents = [], withParams = false) {
+        this.command = command;
         this.actions = [];
         this.nestedEvents = nestedEvents;
         this.withParams = !!withParams;
@@ -12,7 +12,7 @@ export default class VoiceEvent {
     }
 
     equals(voiceCommand) {
-       return this.command === voiceCommand;
+        return this.command === voiceCommand;
     }
 
     hasNestedEvents() {
@@ -20,12 +20,16 @@ export default class VoiceEvent {
     }
 
     static fromArray(elements) {
-        return elements.map(item =>{
-            const voiceEvent = new VoiceEvent(item.command.toLowerCase(), item.nestedEvents, item.withParams);
-            item.actions.forEach(function (action) {
-                voiceEvent.addAction(action);
-            });
+        return elements.map(({command, nestedEvents, withParams, actions}) => {
+            const voiceEvent = new VoiceEvent(command.toLowerCase(), nestedEvents, withParams);
+            this.setActions(voiceEvent, actions);
             return voiceEvent;
         })
+    }
+
+    static setActions(voiceEvent, actions) {
+        actions.forEach(function (action) {
+            voiceEvent.addAction(action);
+        });
     }
 }
