@@ -1,5 +1,5 @@
-export default [
-  'uk-UA',
-  'en-GB',
-  'ru-RU'
-];
+export default {
+  UK: 'uk-UA',
+  EN: 'en-GB',
+  RU: 'ru-RU'
+};
