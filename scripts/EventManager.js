@@ -32,7 +32,6 @@ export default class EventManager {
 
     recognizeCommand(speech) {
         const statement = normalizeText(speech)
-        console.log(statement)
         this.events.forEach(voiceEvent => handleEvent(statement, voiceEvent))
     }
 }
