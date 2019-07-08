@@ -24,6 +24,13 @@ export default class Editor {
     }
 
     attachEvents() {
+        const SpeechGrammarList = window.SpeechGrammarList || window.webkitSpeechGrammarList
+
+        const speechRecognitionList = new SpeechGrammarList()
+        speechRecognitionList.addFromString('іда', 1)
+        this.recognition.grammars = speechRecognitionList
+
+        this.recognition.onend = () => this.start()
         this.recognition.onresult = event => {
             const current = event.resultIndex
             const transcript = event.results[current][0].transcript
