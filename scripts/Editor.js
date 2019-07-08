@@ -27,7 +27,7 @@ export default class Editor {
         const SpeechGrammarList = window.SpeechGrammarList || window.webkitSpeechGrammarList
 
         const speechRecognitionList = new SpeechGrammarList()
-        speechRecognitionList.addFromString('іда', 1)
+        speechRecognitionList.addFromString('іда', 10000)
         this.recognition.grammars = speechRecognitionList
 
         this.recognition.onend = () => this.start()
@@ -43,6 +43,7 @@ export default class Editor {
                     clearTimeout(this.timeout)
                 }
                 this.timeout = setTimeout(() => {
+                    console.log('events', this.events.result)
                     this.events.result.forEach(fn => fn(this.result))
                 }, 500)
             }

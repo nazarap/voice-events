@@ -4,8 +4,8 @@ const executeActions = (actions, params = []) => {
     actions.forEach(action => action(params));
 }
 
-export const handleNestedEvents = (speech, voiceEvents) => {
-    voiceEvents.forEach(child => handleEvent(speech, child));
+export const handleNestedEvents = (speech, voiceEvents, editor) => {
+    voiceEvents.forEach(child => handleEvent(speech, child, editor));
 }
 
 export const normalizeText = (text) =>  {
@@ -24,7 +24,7 @@ export const buildVoiceEvent = (voiceCommand, callback, args) => {
     return voiceEvent;
 }
 
-export const handleEvent = (speech, voiceEvent) => {
+export const handleEvent = (speech, voiceEvent, editor) => {
     const {command, nestedEvents, actions} = voiceEvent;
     if (speech.includes(command)) {
         const nestedStatement =
@@ -33,8 +33,9 @@ export const handleEvent = (speech, voiceEvent) => {
                     speech.indexOf(command) + command.length,
                     speech.length);
         if (voiceEvent.hasNestedEvents()) {
-            handleNestedEvents(nestedStatement, nestedEvents);
+            handleNestedEvents(nestedStatement, nestedEvents, editor);
         } else {
+            editor.result = ''
             executeActions(actions, nestedStatement);
         }
     }
