@@ -1,5 +1,5 @@
-import Editor from "./scripts/Editor";
-import EventManager from "./scripts/EventManager";
+import Editor from './voice-events/Editor'
+import EventManager from './voice-events/EventManager'
 
 const editor = new Editor()
 const eventManager = new EventManager(editor)

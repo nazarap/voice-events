@@ -19,11 +19,17 @@ const renderApp = () => {
   let { width, height } = electron.screen.getPrimaryDisplay().size
   height = height * 4 / 5
   width = width * 4 / 5
-  screen = new BrowserWindow({ width, height })
+  screen = new BrowserWindow({
+    width,
+    height,
+    webPreferences: {
+      nodeIntegration: true
+    }
+  })
   // render the required website/entrypoint
   // screen.loadURL('http://localhost:8080/#/')
   screen.loadURL(url.format({
-    pathname: path.join(__dirname, '../dist/example.html'),
+    pathname: path.join(__dirname, '../dist/index.html'),
     protocol: 'file:',
     slashes: true
   }))

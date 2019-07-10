@@ -1,0 +1,3474 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/-echqiOyScs2n8peR3wQX7rMnKA\"",
+  "nextPageToken": "CGQQAA",
+  "prevPageToken": "CDIQAQ",
+  "pageInfo": {
+    "totalResults": 514,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/hlUXel0LJ8xqmgo4XPGy63f7QI0\"",
+      "id": "MBG3Gdt5OGs",
+      "snippet": {
+        "publishedAt": "2018-10-30T13:17:48.000Z",
+        "channelId": "UC2f2qtst4dOzmT8gl5IrgwA",
+        "title": "IC3PEAK - Смерти Больше Нет",
+        "description": "Слушать в APPLE https://apple.co/2ImK46I\nСлушать в BOOM https://vk.cc/8wGLqw\nМЕРЧ https://goo.gl/r8sLbH\n\nРежиссер: IC3PEAK / Коля и Настя\nСценарий: IC3PEAK / Коля и Настя\n\nМонтаж:    IC3PEAK / Коля и Настя\nКамера/свет:  Jevgeni Bõstrov / https://instagram.com/zhenja_bystrov\nЦвет: Jevgeni Bõstrov & IC3PEAK\nКомпозитинг/VFX: GEX / https://instagram.com/gex_video\nИсполнительный продюсер: Маша Владимирова (https://www.instagram.com/maria_vlad)\nМакияж: Анастасия Беляева & IC3PEAK\nСтиль: IC3PEAK\n\nlicensing/press: ic3peakso@gmail.com\nworldwide booking: dmitry.litkin@gmail.com\nEUROPE booking: fabristi@base-productions.com\n\nIC3PEAK: https://instagram.com/ic3peak\nNICK: https://instagram.com/ic3nick\nNASTYA: https://instagram.com/ndless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MBG3Gdt5OGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MBG3Gdt5OGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBG3Gdt5OGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MBG3Gdt5OGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MBG3Gdt5OGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IC3PEAK",
+        "tags": [
+          "ic3peak"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "IC3PEAK - Смерти Больше Нет",
+          "description": "Слушать в APPLE https://apple.co/2ImK46I\nСлушать в BOOM https://vk.cc/8wGLqw\nМЕРЧ https://goo.gl/r8sLbH\n\nРежиссер: IC3PEAK / Коля и Настя\nСценарий: IC3PEAK / Коля и Настя\n\nМонтаж:    IC3PEAK / Коля и Настя\nКамера/свет:  Jevgeni Bõstrov / https://instagram.com/zhenja_bystrov\nЦвет: Jevgeni Bõstrov & IC3PEAK\nКомпозитинг/VFX: GEX / https://instagram.com/gex_video\nИсполнительный продюсер: Маша Владимирова (https://www.instagram.com/maria_vlad)\nМакияж: Анастасия Беляева & IC3PEAK\nСтиль: IC3PEAK\n\nlicensing/press: ic3peakso@gmail.com\nworldwide booking: dmitry.litkin@gmail.com\nEUROPE booking: fabristi@base-productions.com\n\nIC3PEAK: https://instagram.com/ic3peak\nNICK: https://instagram.com/ic3nick\nNASTYA: https://instagram.com/ndless"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "27654964",
+        "likeCount": "745699",
+        "dislikeCount": "82221",
+        "favoriteCount": "0",
+        "commentCount": "74803"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/XDFdXys6mFa32Um-1W1H3cDCmR4\"",
+      "id": "NgAs9E-Mf8k",
+      "snippet": {
+        "publishedAt": "2018-12-27T14:12:17.000Z",
+        "channelId": "UCDeTrhW6a3d7gwfUuqd9fEg",
+        "title": "Frankivsk-2 vs Lviv",
+        "description": "Basketball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NgAs9E-Mf8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NgAs9E-Mf8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NgAs9E-Mf8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BC Frankivsk",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Frankivsk-2 vs Lviv",
+          "description": "Basketball"
+        }
+      },
+      "statistics": {
+        "viewCount": "175",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/Y34jI5FNN9zpZ5A468YGLf7v2NU\"",
+      "id": "t5l39rBzGXs",
+      "snippet": {
+        "publishedAt": "2018-08-23T10:33:19.000Z",
+        "channelId": "UCAK3bHMWDa33R9Y6nD9GxNg",
+        "title": "Почему я не играю в Мамахохотала | Рома Грищук",
+        "description": "!!!КОНКУРС!!!!\nНапиши мне вопрос в комментариях и выиграй два билета на \"Юбилейный 100-й выпуск Мамахохотала\" 14/10/2018 \nhttps://concert.ua/ru/event/mamahohotala\n\nПодписывайся на мой канал:\nhttps://www.youtube.com/channel/UCAK3bHMWDa33R9Y6nD9GxNg\n\nСпециально перед стартом нового сезона Мамахохотала ответил на два самых распространенных вопроса.\n1) Почему я не играю в номерах Мамахохотала? \n2) Как я отношусь к тому, что Аня Гресь и Женя Янович играют влюбленную пару;\n3) Конкурс!\n\nБольшой концерт Мамахохотала: \n14 октября, Киев, Октябрский Дворец\nhttps://concert.ua/ru/event/mamahohotala\n\n\nМои видео:\n \nКак выступать публично: \nhttps://youtu.be/3BKkUlizA0w\n\nМои 10 целей до 30 лет:\nhttps://youtu.be/W9iNEPnfDCc\n\nСледить за мной можно здесь: \nFACEBOOK - https://www.facebook.com/grishchukroma \nINSTAGRAM - https://www.instagram.com/grishchuk\nTELEGRAM - https://t.me/grishchukroma\n\n\n#РомаГрищук #Мамахохотала",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5l39rBzGXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5l39rBzGXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5l39rBzGXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t5l39rBzGXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t5l39rBzGXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Рома Грищук",
+        "tags": [
+          "рома грищук",
+          "влог рома грищук",
+          "мамахохотала",
+          "рома мамахохотала",
+          "почему я не играю в мамахохотала",
+          "нло тв",
+          "смотреть нло тв",
+          "смотреть мамахохотала",
+          "блог рома грищук",
+          "рома и аня гресь",
+          "рома грищук ютюб",
+          "мама хохотала",
+          "юмор",
+          "НЛО tv",
+          "НЛО ТВ",
+          "ржака",
+          "шоу мамахохотала",
+          "Прикол",
+          "fun ictv",
+          "НЛО ТБ",
+          "Мамахохотала",
+          "mamaxoxotala",
+          "НЛО tv сериал",
+          "Нло ТВ",
+          "прикол",
+          "funny",
+          "Куратори НЛО tv",
+          "2018",
+          "аня гресь",
+          "мамахохотала лучшее",
+          "мамахохотала-шоу",
+          "смешно",
+          "студия мамахохотала",
+          "мамахохотала шоу",
+          "новый сезон"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Почему я не играю в Мамахохотала | Рома Грищук",
+          "description": "!!!КОНКУРС!!!!\nНапиши мне вопрос в комментариях и выиграй два билета на \"Юбилейный 100-й выпуск Мамахохотала\" 14/10/2018 \nhttps://concert.ua/ru/event/mamahohotala\n\nПодписывайся на мой канал:\nhttps://www.youtube.com/channel/UCAK3bHMWDa33R9Y6nD9GxNg\n\nСпециально перед стартом нового сезона Мамахохотала ответил на два самых распространенных вопроса.\n1) Почему я не играю в номерах Мамахохотала? \n2) Как я отношусь к тому, что Аня Гресь и Женя Янович играют влюбленную пару;\n3) Конкурс!\n\nБольшой концерт Мамахохотала: \n14 октября, Киев, Октябрский Дворец\nhttps://concert.ua/ru/event/mamahohotala\n\n\nМои видео:\n \nКак выступать публично: \nhttps://youtu.be/3BKkUlizA0w\n\nМои 10 целей до 30 лет:\nhttps://youtu.be/W9iNEPnfDCc\n\nСледить за мной можно здесь: \nFACEBOOK - https://www.facebook.com/grishchukroma \nINSTAGRAM - https://www.instagram.com/grishchuk\nTELEGRAM - https://t.me/grishchukroma\n\n\n#РомаГрищук #Мамахохотала"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "41805",
+        "likeCount": "1169",
+        "dislikeCount": "48",
+        "favoriteCount": "0",
+        "commentCount": "181"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/8ihuL4PsOQWEhyXkU_M9jrb4LTo\"",
+      "id": "aK6tHkw62Nw",
+      "snippet": {
+        "publishedAt": "2018-12-21T19:02:23.000Z",
+        "channelId": "UCDR8cvjALazMm2j9hOar8_g",
+        "title": "Gotham Season 5 Movie Trailer (HD) Final Season",
+        "description": "Jim Gordon and Bruce Wayne face the chaos Gotham City has become. Their mission to keep the city safe becomes more complicated as the villains who survived the attack on the city begin to resurface and claim various territories. Meanwhile, Selina Kyle grapples with how to deal with her uncertain future in the all-new “Year Zero” season premiere episode of GOTHAM airing Thursday, January 3rd on FOX. Subscribe to tvpromosdb on Youtube for more Gotham season 5 promos in HD!\n\nGotham official website: https://www.fox.com/gotham/\nWatch more Gotham Season 5 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkcO_gq4sDVTn6w4Q2ZhuVFw\nLike Gotham on Facebook: https://www.facebook.com/GOTHAMonFOX\nFollow Gotham on Twitter: https://twitter.com/Gotham\nFollow Gotham on Instagram: https://www.instagram.com/gothamonfox\n\n#Gotham\n\n» Watch Gotham Thursdays at 8:00pm on FOX\n» Starring: Ben McKeznie, Donal Logue, David Mazouz\n\nContribute subtitle translations for this video: https://www.youtube.com/timedtext_video?v=aK6tHkw62Nw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aK6tHkw62Nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aK6tHkw62Nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aK6tHkw62Nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aK6tHkw62Nw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aK6tHkw62Nw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TV Promos",
+        "tags": [
+          "gotham season 5",
+          "gotham season 5 trailer",
+          "gotham season 5 official trailer",
+          "gotham season 5 promo",
+          "gotham fox",
+          "gotham tv series",
+          "trailer",
+          "official trailer",
+          "official",
+          "promo",
+          "teaser",
+          "series",
+          "season 5",
+          "fox",
+          "fox series",
+          "fox tv series",
+          "ben mckeznie",
+          "david mazouz",
+          "bruce wayne",
+          "catwoman",
+          "the penguin",
+          "the joker",
+          "edward nygma",
+          "gotham trailer",
+          "tvpromosdb",
+          "gotham",
+          "5x01",
+          "season",
+          "episode"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Gotham Season 5 Movie Trailer (HD) Final Season",
+          "description": "Jim Gordon and Bruce Wayne face the chaos Gotham City has become. Their mission to keep the city safe becomes more complicated as the villains who survived the attack on the city begin to resurface and claim various territories. Meanwhile, Selina Kyle grapples with how to deal with her uncertain future in the all-new “Year Zero” season premiere episode of GOTHAM airing Thursday, January 3rd on FOX. Subscribe to tvpromosdb on Youtube for more Gotham season 5 promos in HD!\n\nGotham official website: https://www.fox.com/gotham/\nWatch more Gotham Season 5 videos: https://www.youtube.com/playlist?list=PLfrisy2KXzkcO_gq4sDVTn6w4Q2ZhuVFw\nLike Gotham on Facebook: https://www.facebook.com/GOTHAMonFOX\nFollow Gotham on Twitter: https://twitter.com/Gotham\nFollow Gotham on Instagram: https://www.instagram.com/gothamonfox\n\n#Gotham\n\n» Watch Gotham Thursdays at 8:00pm on FOX\n» Starring: Ben McKeznie, Donal Logue, David Mazouz\n\nContribute subtitle translations for this video: https://www.youtube.com/timedtext_video?v=aK6tHkw62Nw"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1447286",
+        "likeCount": "27994",
+        "dislikeCount": "1012",
+        "favoriteCount": "0",
+        "commentCount": "2689"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/PdrCuB5b58Ar2v0YKGLvciC76-8\"",
+      "id": "067YF8KHdTM",
+      "snippet": {
+        "publishedAt": "2010-03-06T22:36:42.000Z",
+        "channelId": "UClSG_GssDNgxTsI1c1zVsLA",
+        "title": "PAIN - Shut Your Mouth (OFFICIAL MUSIC VIDEO)",
+        "description": "From the album, Nothing Remains The Same (2002)\r\n\r\n\r\n\r\nPURCHASE MUSIC AT:\r\n\r\nNB USA Web Shop\r\nhttp://store.nuclearblastusa.com/Artist/Pain/11743\r\n\r\nCM Distro\r\nhttp://www.cmdistro.com/Artist/Pain/11743\r\n\r\nNB EURO Web Shop\r\nhttp://www.nuclearblast.de/showShopSearchResult.php?npos=0&search=Cynic+Paradise&searchtype=release\r\n\r\nAMAZON\r\nhttp://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fentity%2FPain%2FB000APU730%3Fie%3DUTF8%26ref_%3Dntt%5Fmus%5Fdp%5Fpel&tag=nublreus-20&linkCode=ur2&camp=1789&creative=390957\r\n\r\n\r\n\r\n.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/067YF8KHdTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/067YF8KHdTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/067YF8KHdTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pain",
+        "tags": [
+          "Cynic",
+          "Paradise",
+          "Nightwish",
+          "Nine",
+          "Indulgence",
+          "Hypocrisy",
+          "Deathstars",
+          "Samael",
+          "Combichrist",
+          "Rammstein",
+          "Skinny",
+          "Puppy",
+          "Tool",
+          "Ministry",
+          "Industrial",
+          "Metal",
+          "Rock",
+          "VNV",
+          "Nation"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "PAIN - Shut Your Mouth (OFFICIAL MUSIC VIDEO)",
+          "description": "From the album, Nothing Remains The Same (2002)\r\n\r\n\r\n\r\nPURCHASE MUSIC AT:\r\n\r\nNB USA Web Shop\r\nhttp://store.nuclearblastusa.com/Artist/Pain/11743\r\n\r\nCM Distro\r\nhttp://www.cmdistro.com/Artist/Pain/11743\r\n\r\nNB EURO Web Shop\r\nhttp://www.nuclearblast.de/showShopSearchResult.php?npos=0&search=Cynic+Paradise&searchtype=release\r\n\r\nAMAZON\r\nhttp://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fentity%2FPain%2FB000APU730%3Fie%3DUTF8%26ref_%3Dntt%5Fmus%5Fdp%5Fpel&tag=nublreus-20&linkCode=ur2&camp=1789&creative=390957\r\n\r\n\r\n\r\n."
+        }
+      },
+      "statistics": {
+        "viewCount": "5776025",
+        "likeCount": "77751",
+        "dislikeCount": "1376",
+        "favoriteCount": "0",
+        "commentCount": "3425"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/PFC4mcBrBdMyb8zwD0ZxP1GdFq8\"",
+      "id": "-k9qDxyxS3s",
+      "snippet": {
+        "publishedAt": "2013-01-22T16:00:23.000Z",
+        "channelId": "UCUmC7gXciukRv73CQRQ5QGQ",
+        "title": "Bring Me The Horizon - Shadow Moses (Official Video)",
+        "description": "Download ‘Shadow Moses' now: http://smarturl.it/ShadowMosesiT\n\nTaken from the new album 'Sempiternal' out now through RCA.\n \nAvailable to buy: http://smarturl.it/SempiternalDeluxe Order now to receive exclusive content from the band.\n\nFor more information on Bring Me The Horizon, upcoming tour dates and new releases see: Facebook: https://www.facebook.com/bmthofficial / Official website: http://www.bringmethehorizon.co.uk / Twitter: https://twitter.com/bmthofficial\n\nMusic video by Bring Me The Horizon performing Shadow Moses. (C) 2013 Sony Music Entertainment UK Limited\n\n#BringMeTheHorizon #ShadowMoses #Vevo #Rock",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-k9qDxyxS3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-k9qDxyxS3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-k9qDxyxS3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-k9qDxyxS3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-k9qDxyxS3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BMTHOfficialVEVO",
+        "tags": [
+          "bring me the horizon",
+          "bmth",
+          "bring me the horizon lyrics. bmth lyrics",
+          "bring me the horizon live",
+          "oli sykes",
+          "drop dead",
+          "bring me the horizon follow you",
+          "bring me the horizon throne",
+          "bring me the horizon can you feel my heart",
+          "bring me the horizon drown",
+          "bmth true friends",
+          "oli sykes interview",
+          "Bring Me The Horizon",
+          "RCA Records Label",
+          "Rock",
+          "Shadow Moses",
+          "Bring Me The Horizon Shadow Moses Official Video"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Bring Me The Horizon - Shadow Moses (Official Video)",
+          "description": "Download ‘Shadow Moses' now: http://smarturl.it/ShadowMosesiT\n\nTaken from the new album 'Sempiternal' out now through RCA.\n \nAvailable to buy: http://smarturl.it/SempiternalDeluxe Order now to receive exclusive content from the band.\n\nFor more information on Bring Me The Horizon, upcoming tour dates and new releases see: Facebook: https://www.facebook.com/bmthofficial / Official website: http://www.bringmethehorizon.co.uk / Twitter: https://twitter.com/bmthofficial\n\nMusic video by Bring Me The Horizon performing Shadow Moses. (C) 2013 Sony Music Entertainment UK Limited\n\n#BringMeTheHorizon #ShadowMoses #Vevo #Rock"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "35696331",
+        "likeCount": "283630",
+        "dislikeCount": "5696",
+        "favoriteCount": "0",
+        "commentCount": "16587"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/LLFsvkDLFrlESOyXqoWi_AleBYc\"",
+      "id": "KMqzheUzG4Q",
+      "snippet": {
+        "publishedAt": "2018-09-11T16:44:22.000Z",
+        "channelId": "UC4yxdlsaRT6WpZ_FZQ6uIpQ",
+        "title": "ЛИГА ПЛОХИХ ШУТОК. ПАРОДИЯ #24",
+        "description": "Реши любую проблему с YouDo\nandroid http://bit.ly/2OTnlBn\nios http://bit.ly/2Lc5gw0\n--\nМужские костюмы предоставлены магазином @menslook_msk . Концептуальный мужской магазин одежды и аксессуаров\n--\nВыпуск Лиги Плохих Шуток с рекордным количеством участников.\n\nГруппа VK: https://vk.com/satyrchannel \nИнстаграм: https://www.instagram.com/satyrshow/\n\nВсе персонажи - Илья Шабельников\nГрим - Евгения Журавлева \nМонтаж - Сергей Дьячков\nСъемка - Евгений Устинов, Яша Шабельников\nЗав. пост. частью - Илья Киселев\nАсисстент - Максим Самарцев \n\nПоддержать канал - 4817 7600 0782 1386 (Сбербанк)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMqzheUzG4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMqzheUzG4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMqzheUzG4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KMqzheUzG4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KMqzheUzG4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Satyr",
+        "tags": [
+          "Satyr",
+          "пародия",
+          "юмор",
+          "Лига плохих шуток",
+          "лига плохих шуток пародия",
+          "сатир",
+          "лпш",
+          "чикен карри",
+          "александр гудков",
+          "иван ургант",
+          "олег тиньков",
+          "филипп киркоров",
+          "максим галкин",
+          "тимати",
+          "баста",
+          "сергей безруков",
+          "евгений баженов",
+          "badcomedian",
+          "владимир познер",
+          "элджей",
+          "андрей малахов",
+          "светлана лобода",
+          "владимир путин",
+          "алексей навальный",
+          "прикол",
+          "кора",
+          "Илья Шабельников",
+          "шутки",
+          "басков и ревва",
+          "лига плохих шуток киркоров"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ЛИГА ПЛОХИХ ШУТОК. ПАРОДИЯ #24",
+          "description": "Реши любую проблему с YouDo\nandroid http://bit.ly/2OTnlBn\nios http://bit.ly/2Lc5gw0\n--\nМужские костюмы предоставлены магазином @menslook_msk . Концептуальный мужской магазин одежды и аксессуаров\n--\nВыпуск Лиги Плохих Шуток с рекордным количеством участников.\n\nГруппа VK: https://vk.com/satyrchannel \nИнстаграм: https://www.instagram.com/satyrshow/\n\nВсе персонажи - Илья Шабельников\nГрим - Евгения Журавлева \nМонтаж - Сергей Дьячков\nСъемка - Евгений Устинов, Яша Шабельников\nЗав. пост. частью - Илья Киселев\nАсисстент - Максим Самарцев \n\nПоддержать канал - 4817 7600 0782 1386 (Сбербанк)"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "4220217",
+        "likeCount": "274225",
+        "dislikeCount": "10847",
+        "favoriteCount": "0",
+        "commentCount": "12518"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/dy9RFPNCni9kt3ANIkC9Lb495IA\"",
+      "id": "9lq69X9EKqY",
+      "snippet": {
+        "publishedAt": "2018-12-14T14:00:01.000Z",
+        "channelId": "UCqh8RdUfSR9lGyasBhM_bjA",
+        "title": "Papa Roach - Elevate (Official Lyric Video)",
+        "description": "Official lyric video for 'Elevate' by Papa Roach from the new album 'Who Do You Trust?'.\nStream or Buy - 'Who Do You Trust?' - https://paparoach.ffm.to/whodoyoutrust\n\nTour Dates: http://paparoach.com/tour \n\nWatch the 'Elevate' official music video - https://youtu.be/EaxE-8M9Y0E\n\nStream or Download 'Elevate' - https://paparoach.ffm.to/elevate\n\nFollow Papa Roach:\nInstagram: https://www.instagram.com/paparoach/\nFacebook: https://www.facebook.com/paparoach/\nTwitter: https://twitter.com/paparoach\nWebsite: http://www.paparoach.com/\n\nPapa Roach - Elevate (Lyrics):\n\nWoah, lift me higher\nWoah, when I get down\nWoah, lift me higher\nWoah\n    \nI swear to God\nThat I might just be the death of me\nJust count the reasons why I’m crazy\nYeah it’s stressing me\nI’m burning pictures of myself\nLike it could set me free\nBut I can’t stop\nBecause I gotta reach my destiny\nLike hey, whoa\nI was dead now I’m living\nbecause I made my decision\nNo I will not be a victim\nAnd I’m like hey, whoa\nNo I don’t need permission\nTo elevate with precision\nI’m bout to break through the ceiling\n\n‘Cause I need something to lift me up\nWhen I’m down\nI get lost in my head for so long\nI can’t get out\nWhen I’m feeling like I’m crawling in my skin and sinking down\nI need something to lift me up\n\nI wanna elevate\nElevate\nI wanna elevate\nWatch me elevate\n\nWoah, lift me higher\nWoah, when I get down\nWoah, lift me higher\nWoah\nWatch me elevate\n\nI know they say\nThat the best is always yet to come\nBut nothing happens\nI can’t sit and wait until I’m numb\nI get that feeling in my soul\nThen I cut and run\nCause I can’t take another second\nWatch me elevate like hey, whoa\nYeah I’m taking this vision\nMy God body has risen\nNo I can’t stop with this rhythm\nAnd I’m like hey, whoa \nNo my mind ain’t a prison\nI won’t succumb to these villains\nThat keep attacking my feelings\n\nI need something to lift me up\nWhen I’m down\nI get lost in my head for so long\nI can’t get out\nWhen I’m feeling like I’m crawling in my skin and sinking down\nI need something to lift me up\n\nI wanna elevate\nElevate\nI wanna elevate\nWatch me elevate\n\nWoah, lift me higher\nWoah, when I get down\nWoah, lift me higher\nWoah, I wanna elevate\n\nWritten By: Jacoby. Shaddix, Jerry Horton, Tobin Esperance, Anthony Esperance, Nicholas Furlong, Colin Brittain.\n\nPublished By: Meat Locker 2018 (ASCAP), Bear Tracks Publishing (ASCAP), Red Beard Black Ink Publishing (BMI)/Songs of Reach Music (BMI), administered by BMG Platinum Songs US (BMI), So Many Names Music (ASCAP).\n\nAll Rights Reserved.\n\n#PapaRoach #Elevate #WDYT\n\n© 2018 Eleven Seven Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9lq69X9EKqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9lq69X9EKqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9lq69X9EKqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9lq69X9EKqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9lq69X9EKqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "E7 Music",
+        "tags": [
+          "Papa Roach",
+          "Papa Roach Crooked Teeth",
+          "Crooked Teeth",
+          "Papa Roach Live",
+          "Papa Roach Concert",
+          "Music",
+          "Rock and Roll",
+          "Rock Music",
+          "Hip Hop",
+          "Hard Rock Music",
+          "Born For Greatness",
+          "Papa Roach Born For Greatness",
+          "Born For Greatness Lyrics",
+          "Hard Rock",
+          "Alternative Rock",
+          "New Music",
+          "Rock on the Range",
+          "Last Resort",
+          "Infest",
+          "Papa Roach Help",
+          "Papa Roach Last Resort",
+          "who do you trust",
+          "papa roach who do you trust",
+          "Elevate",
+          "papa Roach elevate"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Papa Roach - Elevate (Official Lyric Video)",
+          "description": "Official lyric video for 'Elevate' by Papa Roach from the new album 'Who Do You Trust?'.\nStream or Buy - 'Who Do You Trust?' - https://paparoach.ffm.to/whodoyoutrust\n\nTour Dates: http://paparoach.com/tour \n\nWatch the 'Elevate' official music video - https://youtu.be/EaxE-8M9Y0E\n\nStream or Download 'Elevate' - https://paparoach.ffm.to/elevate\n\nFollow Papa Roach:\nInstagram: https://www.instagram.com/paparoach/\nFacebook: https://www.facebook.com/paparoach/\nTwitter: https://twitter.com/paparoach\nWebsite: http://www.paparoach.com/\n\nPapa Roach - Elevate (Lyrics):\n\nWoah, lift me higher\nWoah, when I get down\nWoah, lift me higher\nWoah\n    \nI swear to God\nThat I might just be the death of me\nJust count the reasons why I’m crazy\nYeah it’s stressing me\nI’m burning pictures of myself\nLike it could set me free\nBut I can’t stop\nBecause I gotta reach my destiny\nLike hey, whoa\nI was dead now I’m living\nbecause I made my decision\nNo I will not be a victim\nAnd I’m like hey, whoa\nNo I don’t need permission\nTo elevate with precision\nI’m bout to break through the ceiling\n\n‘Cause I need something to lift me up\nWhen I’m down\nI get lost in my head for so long\nI can’t get out\nWhen I’m feeling like I’m crawling in my skin and sinking down\nI need something to lift me up\n\nI wanna elevate\nElevate\nI wanna elevate\nWatch me elevate\n\nWoah, lift me higher\nWoah, when I get down\nWoah, lift me higher\nWoah\nWatch me elevate\n\nI know they say\nThat the best is always yet to come\nBut nothing happens\nI can’t sit and wait until I’m numb\nI get that feeling in my soul\nThen I cut and run\nCause I can’t take another second\nWatch me elevate like hey, whoa\nYeah I’m taking this vision\nMy God body has risen\nNo I can’t stop with this rhythm\nAnd I’m like hey, whoa \nNo my mind ain’t a prison\nI won’t succumb to these villains\nThat keep attacking my feelings\n\nI need something to lift me up\nWhen I’m down\nI get lost in my head for so long\nI can’t get out\nWhen I’m feeling like I’m crawling in my skin and sinking down\nI need something to lift me up\n\nI wanna elevate\nElevate\nI wanna elevate\nWatch me elevate\n\nWoah, lift me higher\nWoah, when I get down\nWoah, lift me higher\nWoah, I wanna elevate\n\nWritten By: Jacoby. Shaddix, Jerry Horton, Tobin Esperance, Anthony Esperance, Nicholas Furlong, Colin Brittain.\n\nPublished By: Meat Locker 2018 (ASCAP), Bear Tracks Publishing (ASCAP), Red Beard Black Ink Publishing (BMI)/Songs of Reach Music (BMI), administered by BMG Platinum Songs US (BMI), So Many Names Music (ASCAP).\n\nAll Rights Reserved.\n\n#PapaRoach #Elevate #WDYT\n\n© 2018 Eleven Seven Music"
+        }
+      },
+      "statistics": {
+        "viewCount": "4897344",
+        "likeCount": "33310",
+        "dislikeCount": "3768",
+        "favoriteCount": "0",
+        "commentCount": "1267"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/7Vys3smiP9maX74dv3DDLtt49U4\"",
+      "id": "rJXYvEnAB9c",
+      "snippet": {
+        "publishedAt": "2018-12-12T09:38:30.000Z",
+        "channelId": "UC4yxdlsaRT6WpZ_FZQ6uIpQ",
+        "title": "ЛЕНИНГРАД. ПАРОДИЯ #27",
+        "description": "Самая крутая вечеринка «Здравствуй, Лоусон, Новый год» будет уже завтра, 13 декабря, в Москве!\nБудут выступать the Hatters, Little big, Chase and status, Данила Поперечный!\nИ все это бесплатно! Строго 18+ \nРегистрация заканчивается уже сегодня в 20:00, успей отхватить свой билет!\nСсылка на регистрацию https://lawsonsnewyear.com\n#дернислоусоном\n--\nНовый клип группировки Ленинград завоевывает сердца россиян \n\nВокал - Соня Таюрская\n\nРежиссер - Сергей Дьячков\n\nВ ролях:\nСергей Шнуров, Вовик - Илья Шабельников\nВиталя - Павел Поляков\nМать - Татьяна Шуликова \nST - Георгий Болонев \nКондуктор - Дарья Тропезникова\nНачальник - Егор Овечкин\nКоллеги - Карина Овечкина, Владимир Казанцев\nДрузья Вовика - Евгений Варава, Алексей Корнев\nСолистка группы - Линда Ахметзянова\nМузыканты - Максим Мисютин, Денис Франк, Тимофей Пастухов, Антон Войналович, Виктор Жлудов\n\nГруппа VK: https://vk.com/satyrchannel \nИнстаграм: https://www.instagram.com/satyrshow/\n\nМонтаж - Сергей Дьячков\nСъемка - Евгений Устинов, Яша Шабельников\nЗав. пост. частью - Илья Киселев\nАсисстент - Максим Самарцев\n\nАвторы музыки - Егор Лоскутов, Павел Лысков\n\nЗапись и сведение:\nТимофей Пастухов https://vk.com/shkafart\n1Blood Records https://vk.com/1blood \n\nСпасибо за локацию для съемок Бару 113: https://vk.com/bar113\n\nПоддержать канал - 4817 7600 0782 1386 (Сбербанк)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rJXYvEnAB9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rJXYvEnAB9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJXYvEnAB9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rJXYvEnAB9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rJXYvEnAB9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Satyr",
+        "tags": [
+          "Satyr",
+          "пародия",
+          "юмор",
+          "Илья Шабельников",
+          "Ленинград",
+          "Ленинград пародия",
+          "Сергей Шнуров",
+          "Шнур",
+          "Шнуров пародия",
+          "кора",
+          "прикол",
+          "сатир",
+          "пародии на клипы",
+          "пародии на песни",
+          "ленинград иисус",
+          "ленинград кабриолет",
+          "ленинград чпх",
+          "в питере пить",
+          "ленинград вояж",
+          "ленинград экспонат",
+          "шнуров песни"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ЛЕНИНГРАД. ПАРОДИЯ #27",
+          "description": "Самая крутая вечеринка «Здравствуй, Лоусон, Новый год» будет уже завтра, 13 декабря, в Москве!\nБудут выступать the Hatters, Little big, Chase and status, Данила Поперечный!\nИ все это бесплатно! Строго 18+ \nРегистрация заканчивается уже сегодня в 20:00, успей отхватить свой билет!\nСсылка на регистрацию https://lawsonsnewyear.com\n#дернислоусоном\n--\nНовый клип группировки Ленинград завоевывает сердца россиян \n\nВокал - Соня Таюрская\n\nРежиссер - Сергей Дьячков\n\nВ ролях:\nСергей Шнуров, Вовик - Илья Шабельников\nВиталя - Павел Поляков\nМать - Татьяна Шуликова \nST - Георгий Болонев \nКондуктор - Дарья Тропезникова\nНачальник - Егор Овечкин\nКоллеги - Карина Овечкина, Владимир Казанцев\nДрузья Вовика - Евгений Варава, Алексей Корнев\nСолистка группы - Линда Ахметзянова\nМузыканты - Максим Мисютин, Денис Франк, Тимофей Пастухов, Антон Войналович, Виктор Жлудов\n\nГруппа VK: https://vk.com/satyrchannel \nИнстаграм: https://www.instagram.com/satyrshow/\n\nМонтаж - Сергей Дьячков\nСъемка - Евгений Устинов, Яша Шабельников\nЗав. пост. частью - Илья Киселев\nАсисстент - Максим Самарцев\n\nАвторы музыки - Егор Лоскутов, Павел Лысков\n\nЗапись и сведение:\nТимофей Пастухов https://vk.com/shkafart\n1Blood Records https://vk.com/1blood \n\nСпасибо за локацию для съемок Бару 113: https://vk.com/bar113\n\nПоддержать канал - 4817 7600 0782 1386 (Сбербанк)"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "4603329",
+        "likeCount": "314092",
+        "dislikeCount": "10374",
+        "favoriteCount": "0",
+        "commentCount": "14675"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/yDuSVKew2fToYwSLXqyFNqQy8dw\"",
+      "id": "HpvJ4xsGt7M",
+      "snippet": {
+        "publishedAt": "2018-12-07T06:58:36.000Z",
+        "channelId": "UCYfYQ1lmPwPdxjBpW_rMJ7w",
+        "title": "Сплин - Выхода нет | 10 ROCK СТИЛЕЙ | RADIO TAPOK",
+        "description": "Подпишись на мою страничку в VK: https://vk.com/tapog\nПриходи на мои концерты http://radiotapok.ru/ \n\nПаблик с аудиозаписями ВКонтакте https://vk.com/radiotapok\nМой инстаграмм https://www.instagram.com/radiotapok\n\nСоздание инструментала:\nhttps://vk.com/space_dude\nhttps://www.instagram.com/sashaagena/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HpvJ4xsGt7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HpvJ4xsGt7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HpvJ4xsGt7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HpvJ4xsGt7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HpvJ4xsGt7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RADIO TAPOK",
+        "tags": [
+          "пародии",
+          "сплин",
+          "выхода нет",
+          "Вячеслав Бутусов",
+          "Гражданская оборона",
+          "Егор Летов",
+          "Наив",
+          "Чача Иванов",
+          "Борис Гребенщиков",
+          "король и шут",
+          "киш",
+          "Михаил Горшенев",
+          "Чайф",
+          "Владимир Шахрин",
+          "Алиса",
+          "Константин Кинчев",
+          "КИНО",
+          "Виктор Цой",
+          "Тараканы",
+          "Дмитрий Спирин",
+          "Ляпис Трубецкой",
+          "Сергей Михалок",
+          "ГрОб"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Сплин - Выхода нет | 10 ROCK СТИЛЕЙ | RADIO TAPOK",
+          "description": "Подпишись на мою страничку в VK: https://vk.com/tapog\nПриходи на мои концерты http://radiotapok.ru/ \n\nПаблик с аудиозаписями ВКонтакте https://vk.com/radiotapok\nМой инстаграмм https://www.instagram.com/radiotapok\n\nСоздание инструментала:\nhttps://vk.com/space_dude\nhttps://www.instagram.com/sashaagena/"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "762018",
+        "likeCount": "85467",
+        "dislikeCount": "2656",
+        "favoriteCount": "0",
+        "commentCount": "4199"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/A5GKSSVM8ooTrZPeGYz_2fOzl8k\"",
+      "id": "ubcxIv81lo8",
+      "snippet": {
+        "publishedAt": "2011-04-01T15:08:45.000Z",
+        "channelId": "UCOlUfvPjNqd--I_Fx6DohMA",
+        "title": "Apologize - One Republic (russian Acoustic Cover)",
+        "description": "One Republic - Apologize - acoustic studio cover by Timesquare band.\n\n\nРусскоязычный кавер группы Таймсквер на хит One Republic.\n\nEng -\nFirst russian cover version of OneRepublic's hit song \"Apologize\", translated and performed by Timesquare band.\n\nIf you like the cover, you can support us by donating any amount of money to the following account:\n\nWebMoney - Z287055078507\nor using a following email as recepient in PayPal:\nUnc0@mail.ru\n\nWe're currently working on new videos (russian and english) and recording our new album, so, any financial support will be appreciable, guys. \n\nтаймсквер.рф\ntimesquareband.ru\nvkontakte.ru/timesquareband\n\nRussian lyrics (cyrillic):\nНа тоненькой веревке вишу я высоко\nИ слыша голос твой, все равно я не слышу слов\nНе стоит притворяться, ведь Ты подвесила меня на ней\nНе стоит обещать, что на этот раз не станешь лгать - \n\nО, нет\n\nНе стоит, не обещай\nНе стоит\n\nЯ снова \"поведусь\", упаду - только для тебя\nТы что-то вроде пульса во мне - жаль, что бьешься зря\nЛюбовь гореда пламенем... но уже прошла\nИ теперь - не стоит извиняться, ангелом тебе не стать\nВ моих глазах\n\nНе стоит, не обещай\nНе стоит, не обещай\nНе стоит\n\nRussian lyrics (latin letters):\n\nNa tonenkoi verevke vishu ya visoko\nI slisha golos tvoi, vse ravno ya ne slishu slov\nNe stoit pritvoriatsya, ved ti podvesila menya\nNa nei\nNe stoit obeshat shto na etot raz ne stanesh lgat\nO net\n\nNe stoit, ne obeshai\nNe stoit\nNe stoit, ne obeshai\nNe stoit\n\nYa snova povedus, upadu tolko dlya tebya\nTi shto-to vrode poulsa vo mne, jal shto bioshsya zrya\nLyubov gorela plamenem, no uje proshla, i teper\nNe stoit izviniatsya - angelom tebe ne stat\nV moih glazah\n\nNe stoit, ne obeshai\nNe stoit\nNe stoit, ne obeshai\nNe stoit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ubcxIv81lo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ubcxIv81lo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ubcxIv81lo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ubcxIv81lo8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ubcxIv81lo8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ТАйМСКВЕР",
+        "tags": [
+          "one",
+          "republic",
+          "apologize",
+          "премьера",
+          "акустический",
+          "кавер",
+          "аполоджайз",
+          "acoustic",
+          "cover",
+          "голос",
+          "таймсквер",
+          "тайм",
+          "сквер",
+          "группа",
+          "концерт",
+          "live",
+          "лайв",
+          "russian",
+          "не",
+          "обещай",
+          "стоит",
+          "уан",
+          "репаблик",
+          "уанрепаблик",
+          "поет",
+          "красиво",
+          "круто",
+          "рок",
+          "супер",
+          "поп",
+          "клипа",
+          "videoclip",
+          "music",
+          "song",
+          "ballad",
+          "amazing",
+          "voice",
+          "songs",
+          "singer",
+          "One Republic vocal cover",
+          "One Republic cover",
+          "Apologize cover",
+          "Apologize vocal",
+          "Apologize best cover",
+          "timesquareband",
+          "best cover song",
+          "best cover",
+          "Apologize live"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Apologize - One Republic (russian Acoustic Cover)",
+          "description": "One Republic - Apologize - acoustic studio cover by Timesquare band.\n\n\nРусскоязычный кавер группы Таймсквер на хит One Republic.\n\nEng -\nFirst russian cover version of OneRepublic's hit song \"Apologize\", translated and performed by Timesquare band.\n\nIf you like the cover, you can support us by donating any amount of money to the following account:\n\nWebMoney - Z287055078507\nor using a following email as recepient in PayPal:\nUnc0@mail.ru\n\nWe're currently working on new videos (russian and english) and recording our new album, so, any financial support will be appreciable, guys. \n\nтаймсквер.рф\ntimesquareband.ru\nvkontakte.ru/timesquareband\n\nRussian lyrics (cyrillic):\nНа тоненькой веревке вишу я высоко\nИ слыша голос твой, все равно я не слышу слов\nНе стоит притворяться, ведь Ты подвесила меня на ней\nНе стоит обещать, что на этот раз не станешь лгать - \n\nО, нет\n\nНе стоит, не обещай\nНе стоит\n\nЯ снова \"поведусь\", упаду - только для тебя\nТы что-то вроде пульса во мне - жаль, что бьешься зря\nЛюбовь гореда пламенем... но уже прошла\nИ теперь - не стоит извиняться, ангелом тебе не стать\nВ моих глазах\n\nНе стоит, не обещай\nНе стоит, не обещай\nНе стоит\n\nRussian lyrics (latin letters):\n\nNa tonenkoi verevke vishu ya visoko\nI slisha golos tvoi, vse ravno ya ne slishu slov\nNe stoit pritvoriatsya, ved ti podvesila menya\nNa nei\nNe stoit obeshat shto na etot raz ne stanesh lgat\nO net\n\nNe stoit, ne obeshai\nNe stoit\nNe stoit, ne obeshai\nNe stoit\n\nYa snova povedus, upadu tolko dlya tebya\nTi shto-to vrode poulsa vo mne, jal shto bioshsya zrya\nLyubov gorela plamenem, no uje proshla, i teper\nNe stoit izviniatsya - angelom tebe ne stat\nV moih glazah\n\nNe stoit, ne obeshai\nNe stoit\nNe stoit, ne obeshai\nNe stoit"
+        }
+      },
+      "statistics": {
+        "viewCount": "251618",
+        "likeCount": "3394",
+        "dislikeCount": "80",
+        "favoriteCount": "0",
+        "commentCount": "142"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/KHZNc9NmHPfO48Qpen5EzQtTPA0\"",
+      "id": "o_l4Ab5FRwM",
+      "snippet": {
+        "publishedAt": "2014-08-11T07:00:05.000Z",
+        "channelId": "UC_fN8QapvzsTxrddAN3w9tw",
+        "title": "Five Finger Death Punch - Wrong Side Of Heaven",
+        "description": "Get Five Finger Death Punch’s latest album “Got Your Six”!!!\niTunes = http://smarturl.it/FFDP6_DLX \nGoogle = http://smarturl.it/FFDP6_GoogleDLX \nAmazon = http://smarturl.it/FFDP6_AmzDLX \n\nPurchase \"Wrong Side Of Heaven\" now!\niTunes: http://smarturl.it/FFDP4D_iTunes\nAmazon: http://smarturl.it/FFDP4D_Amazon\nGoogle Play: http://smarturl.it/FFDP4D_Google\nhttp://smarturl.it/FFDP_3rdOption\n\nDIRECTOR\nNICK PETERSON\n\nPRODUCER\nALEC ESKANDER\n\nCOMPOSER\nZOLTAN BATHORY\nIVAN MOODY\nJASON HOOK\nJEREMY SPENCER\nKEVIN CHURKO\n\nTo reach Wounded Warrior Project anywhere in the world, please call 888.997.2586.\n\nMusic video by Five Finger Death Punch performing Wrong Side Of Heaven. (C) 2014 Prospect Park",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o_l4Ab5FRwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o_l4Ab5FRwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o_l4Ab5FRwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o_l4Ab5FRwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o_l4Ab5FRwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5FDPVEVO",
+        "tags": [
+          "Five",
+          "Finger",
+          "Death",
+          "Punch",
+          "Wrong",
+          "Side",
+          "Of",
+          "Heaven",
+          "Prospect",
+          "Park",
+          "Rock"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Five Finger Death Punch - Wrong Side Of Heaven",
+          "description": "Get Five Finger Death Punch’s latest album “Got Your Six”!!!\niTunes = http://smarturl.it/FFDP6_DLX \nGoogle = http://smarturl.it/FFDP6_GoogleDLX \nAmazon = http://smarturl.it/FFDP6_AmzDLX \n\nPurchase \"Wrong Side Of Heaven\" now!\niTunes: http://smarturl.it/FFDP4D_iTunes\nAmazon: http://smarturl.it/FFDP4D_Amazon\nGoogle Play: http://smarturl.it/FFDP4D_Google\nhttp://smarturl.it/FFDP_3rdOption\n\nDIRECTOR\nNICK PETERSON\n\nPRODUCER\nALEC ESKANDER\n\nCOMPOSER\nZOLTAN BATHORY\nIVAN MOODY\nJASON HOOK\nJEREMY SPENCER\nKEVIN CHURKO\n\nTo reach Wounded Warrior Project anywhere in the world, please call 888.997.2586.\n\nMusic video by Five Finger Death Punch performing Wrong Side Of Heaven. (C) 2014 Prospect Park"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "256668085",
+        "likeCount": "1629225",
+        "dislikeCount": "79165",
+        "favoriteCount": "0",
+        "commentCount": "90840"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/2zWjCcXo1UDuPOjUo4wumb55PaE\"",
+      "id": "lB48rfLjVbo",
+      "snippet": {
+        "publishedAt": "2018-05-15T20:19:12.000Z",
+        "channelId": "UCJAA2oOtELnkDlMrF54kHEA",
+        "title": "Крылья",
+        "description": "Provided to YouTube by National Digital Aggregator LLC\n\nКрылья · Наутилус Помпилиус\n\nСеребряный век\n\n℗ 2018 Первое музыкальное Издательство\n\nReleased on: 2015-12-18\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lB48rfLjVbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lB48rfLjVbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lB48rfLjVbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lB48rfLjVbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lB48rfLjVbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nautilus Pompilius - Topic",
+        "tags": [
+          "Наутилус",
+          "Помпилиус",
+          "Серебряный",
+          "век",
+          "Крылья"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Крылья",
+          "description": "Provided to YouTube by National Digital Aggregator LLC\n\nКрылья · Наутилус Помпилиус\n\nСеребряный век\n\n℗ 2018 Первое музыкальное Издательство\n\nReleased on: 2015-12-18\n\nAuto-generated by YouTube."
+        }
+      },
+      "statistics": {
+        "viewCount": "2064",
+        "likeCount": "36",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/J2aJnjX9M_YMCdPaMgWu_tNNZT8\"",
+      "id": "RSnBm1CAZ9k",
+      "snippet": {
+        "publishedAt": "2018-08-12T10:00:08.000Z",
+        "channelId": "UC-1ZY8bY46rX3ySgG3Qyn3g",
+        "title": "Don´t do this in UKRAINE !",
+        "description": "When traveling to Ukraine those are some things not to do and to keep in mind ;) \n\nConor´s Channel: https://www.youtube.com/user/TheLanguageTsar\n\nWant to know it before it comes onto Youtube?: \nJoin us on \nMy Instagram : https://www.instagram.com/danymalistic/\nJudy´s Instagram: https://www.instagram.com/judithcharlotta/\n\nBEST PLACE to buy a Drone like I have : http://click.dji.com/APTtKs2ffmw8_WKUaT0NVg?pm=link\n\nGet a 30€/$ discount on airbnb for your first trip by using this link  :  https://goo.gl/DJHAij\n\nGet 15$ off your next Hotel on booking.com:\nhttps://www.booking.com/s/34_6/190b1586\n\nMY Gear: \nDrone: https://goo.gl/PWH1K1\nCamera: https://goo.gl/spCfmQ\nMy Gimbal: https://goo.gl/M7akDJ\nMy Favourite Movie: https://goo.gl/9wg3Dn\n\nI work on videos every day...If you want to see even more support my Creations on Patreon : https://www.patreon.com/danygotaworldtosee",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSnBm1CAZ9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSnBm1CAZ9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSnBm1CAZ9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RSnBm1CAZ9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Dany #gotaworldtosee",
+        "tags": [
+          "ukraine",
+          "travel to ukraine",
+          "things not to do in ukraine",
+          "things to do in ukraine",
+          "travel to ukraine 2018",
+          "don´t do this in ukraine",
+          "ukraine is soooo cheap!",
+          "travel to lviv",
+          "travel to kiev",
+          "travel to odessa",
+          "travel to ukraine 2017",
+          "odessa",
+          "odessa girls",
+          "what ukrainian girls in odessa think of foreign guys!",
+          "language tsar",
+          "is ukraine safe",
+          "thing to do in odessa",
+          "things do to in lviv",
+          "things to do in kiev",
+          "kiev",
+          "do",
+          "this",
+          "in",
+          "ukraine girls",
+          "#gotaworldtosee"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Don´t do this in UKRAINE !",
+          "description": "When traveling to Ukraine those are some things not to do and to keep in mind ;) \n\nConor´s Channel: https://www.youtube.com/user/TheLanguageTsar\n\nWant to know it before it comes onto Youtube?: \nJoin us on \nMy Instagram : https://www.instagram.com/danymalistic/\nJudy´s Instagram: https://www.instagram.com/judithcharlotta/\n\nBEST PLACE to buy a Drone like I have : http://click.dji.com/APTtKs2ffmw8_WKUaT0NVg?pm=link\n\nGet a 30€/$ discount on airbnb for your first trip by using this link  :  https://goo.gl/DJHAij\n\nGet 15$ off your next Hotel on booking.com:\nhttps://www.booking.com/s/34_6/190b1586\n\nMY Gear: \nDrone: https://goo.gl/PWH1K1\nCamera: https://goo.gl/spCfmQ\nMy Gimbal: https://goo.gl/M7akDJ\nMy Favourite Movie: https://goo.gl/9wg3Dn\n\nI work on videos every day...If you want to see even more support my Creations on Patreon : https://www.patreon.com/danygotaworldtosee"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "204073",
+        "likeCount": "5536",
+        "dislikeCount": "380",
+        "favoriteCount": "0",
+        "commentCount": "1500"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/PkpZpg4vmN3d7caD4ZlFrdMNRHs\"",
+      "id": "E7ZlnrOpAUw",
+      "snippet": {
+        "publishedAt": "2018-10-27T12:51:19.000Z",
+        "channelId": "UCagWAyBLF4SVacNz3TIOscQ",
+        "title": "TARABAROVA - мрій, мрій, мрій  [Official Lyric Video | Альбом 23:25]",
+        "description": "#МРІЙМРІЙМРІЙ\nмрій, мрій, мрій\nі ніколи не зупиняйся\n\nПідпишись на YouTube: https://bit.ly/2J2PpDD  \nFacebook: https://www.facebook.com/TARABAROVAofficial/  \nInstagram: https://www.instagram.com/tarabarova/  \nОфіційний сайт: http://tarabarova.com  \n\nBooking/Організація концертів: +380679008889 Олексій\n\nYouTube: https://bit.ly/2J3rWSB  \nApple Music: https://apple.co/2VP5m6f  \nGoogle Play: http://bit.ly/2H2CL44\nDeezer - https://bit.ly/2OndasU\nSpotify - https://spoti.fi/2QQjHcD\nTidal - https://bit.ly/2ywrSTR\nAmazon - https://amzn.to/2CcYs0x\n\n(с) TARABAROVA TEAM  2018",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E7ZlnrOpAUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E7ZlnrOpAUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E7ZlnrOpAUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E7ZlnrOpAUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E7ZlnrOpAUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TARABAROVAcom",
+        "tags": [
+          "TARABAROVA",
+          "Цунамі",
+          "тарабарова",
+          "мрій мрій мрій",
+          "тарабарова альбом",
+          "українська музика",
+          "23:25",
+          "украинский альбом",
+          "новинка музики",
+          "хіти 2018"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TARABAROVA - мрій, мрій, мрій  [Official Lyric Video | Альбом 23:25]",
+          "description": "#МРІЙМРІЙМРІЙ\nмрій, мрій, мрій\nі ніколи не зупиняйся\n\nПідпишись на YouTube: https://bit.ly/2J2PpDD  \nFacebook: https://www.facebook.com/TARABAROVAofficial/  \nInstagram: https://www.instagram.com/tarabarova/  \nОфіційний сайт: http://tarabarova.com  \n\nBooking/Організація концертів: +380679008889 Олексій\n\nYouTube: https://bit.ly/2J3rWSB  \nApple Music: https://apple.co/2VP5m6f  \nGoogle Play: http://bit.ly/2H2CL44\nDeezer - https://bit.ly/2OndasU\nSpotify - https://spoti.fi/2QQjHcD\nTidal - https://bit.ly/2ywrSTR\nAmazon - https://amzn.to/2CcYs0x\n\n(с) TARABAROVA TEAM  2018"
+        },
+        "defaultAudioLanguage": "uk"
+      },
+      "statistics": {
+        "viewCount": "40886",
+        "likeCount": "830",
+        "dislikeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "36"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/SXfUOLSJtrAGHtw5f-u3qoiuKaA\"",
+      "id": "Zmu5XQ9EV7A",
+      "snippet": {
+        "publishedAt": "2018-10-16T13:00:35.000Z",
+        "channelId": "UCagWAyBLF4SVacNz3TIOscQ",
+        "title": "TARABAROVA - Ти особливий [Official Lyric Video | Альбом 23:25]",
+        "description": "#ТИОСОБЛИВИЙ\nвсе що в житті насправді важливо\nщира любов, віра в людей\n\nПідпишись на YouTube: https://bit.ly/2J2PpDD  \nFacebook: https://www.facebook.com/TARABAROVAofficial/  \nInstagram: https://www.instagram.com/tarabarova/  \nОфіційний сайт: http://tarabarova.com  \n\nBooking/Організація концертів: +380679008889 Олексій\n\nYouTube: https://bit.ly/2J3rWSB  \nApple Music: https://apple.co/2VP5m6f  \nGoogle Play: http://bit.ly/2H2CL44\nDeezer - https://bit.ly/2OndasU\nSpotify - https://spoti.fi/2QQjHcD\nTidal - https://bit.ly/2ywrSTR\nAmazon - https://amzn.to/2CcYs0x",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zmu5XQ9EV7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zmu5XQ9EV7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zmu5XQ9EV7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zmu5XQ9EV7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "TARABAROVAcom",
+        "tags": [
+          "TARABAROVA",
+          "тарабарова",
+          "ти особливий",
+          "23:25",
+          "світлана тарабарова",
+          "тарабарова ти особливий",
+          "почуй мене",
+          "казково",
+          "невипадково",
+          "в моєму серці ти",
+          "хочу бути тільки з тобою",
+          "добре серце",
+          "мрій",
+          "маніфест"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TARABAROVA - Ти особливий [Official Lyric Video | Альбом 23:25]",
+          "description": "#ТИОСОБЛИВИЙ\nвсе що в житті насправді важливо\nщира любов, віра в людей\n\nПідпишись на YouTube: https://bit.ly/2J2PpDD  \nFacebook: https://www.facebook.com/TARABAROVAofficial/  \nInstagram: https://www.instagram.com/tarabarova/  \nОфіційний сайт: http://tarabarova.com  \n\nBooking/Організація концертів: +380679008889 Олексій\n\nYouTube: https://bit.ly/2J3rWSB  \nApple Music: https://apple.co/2VP5m6f  \nGoogle Play: http://bit.ly/2H2CL44\nDeezer - https://bit.ly/2OndasU\nSpotify - https://spoti.fi/2QQjHcD\nTidal - https://bit.ly/2ywrSTR\nAmazon - https://amzn.to/2CcYs0x"
+        },
+        "defaultAudioLanguage": "uk"
+      },
+      "statistics": {
+        "viewCount": "58191",
+        "likeCount": "1097",
+        "dislikeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/c34FjDcuv2pPTJ40VT8x5KEraqc\"",
+      "id": "Kn1PcXHIcsg",
+      "snippet": {
+        "publishedAt": "2018-10-18T16:00:01.000Z",
+        "channelId": "UCF_ZiWz2Vcq1o5u5i1TT3Kw",
+        "title": "Українське «Чорне дзеркало». Ще! Влог Максима Щербини",
+        "description": "👻👻👻УВАГА, ЛЕКСИКА 18+👻👻👻\nЧий гіпоталамус пересадили Олегу Ляшку, поки той був у комі? Що робитиме Кличко, коли випаде Джон Сноу? Чи відчуває себе Дукаліс після контузії підпаховою волосиною Олега Барни❓😒\n\nНе лякайтеся, просто Максим Щербина помітив, що нам із вами можна не дивитися серіали, коли є українська політика. 😎\n\nЖодне «Чорне дзеркало» не порівняється із тим, що відбувається у Верховній Раді 🎬 . До речі, у новому сезоні цього серіалу глядачі можуть обирати різні фінали серії. А глядачі українського чорного новинного дзеркала досі не мають цю можливість😢😢😢\n\nЙоу, може час бути як глядачі Netflix? Подумайте про це перед тим, як подивитися нову серію серіалу української політики. А краще – подивіться новий влог «Ще!» 😽\n\nДодавайтеся 🔴https://www.instagram.com/toronto_tv\n\nПідписуйтесь на наш канал https://www.youtube.com/channel/UCF_ZiWz2Vcq1o5u5i1TT3Kw?sub_confirmation=1\n\n#Телебачення_Торонто #гумор",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kn1PcXHIcsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kn1PcXHIcsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kn1PcXHIcsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kn1PcXHIcsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kn1PcXHIcsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Телебачення Торонто",
+        "tags": [
+          "Майкл Щур",
+          "Телебачення Торонто",
+          "#@)₴?$0",
+          "news",
+          "українські новини",
+          "новини України",
+          "гумор"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "uk",
+        "localized": {
+          "title": "Українське «Чорне дзеркало». Ще! Влог Максима Щербини",
+          "description": "👻👻👻УВАГА, ЛЕКСИКА 18+👻👻👻\nЧий гіпоталамус пересадили Олегу Ляшку, поки той був у комі? Що робитиме Кличко, коли випаде Джон Сноу? Чи відчуває себе Дукаліс після контузії підпаховою волосиною Олега Барни❓😒\n\nНе лякайтеся, просто Максим Щербина помітив, що нам із вами можна не дивитися серіали, коли є українська політика. 😎\n\nЖодне «Чорне дзеркало» не порівняється із тим, що відбувається у Верховній Раді 🎬 . До речі, у новому сезоні цього серіалу глядачі можуть обирати різні фінали серії. А глядачі українського чорного новинного дзеркала досі не мають цю можливість😢😢😢\n\nЙоу, може час бути як глядачі Netflix? Подумайте про це перед тим, як подивитися нову серію серіалу української політики. А краще – подивіться новий влог «Ще!» 😽\n\nДодавайтеся 🔴https://www.instagram.com/toronto_tv\n\nПідписуйтесь на наш канал https://www.youtube.com/channel/UCF_ZiWz2Vcq1o5u5i1TT3Kw?sub_confirmation=1\n\n#Телебачення_Торонто #гумор"
+        },
+        "defaultAudioLanguage": "uk"
+      },
+      "statistics": {
+        "viewCount": "19601",
+        "likeCount": "1573",
+        "dislikeCount": "80",
+        "favoriteCount": "0",
+        "commentCount": "126"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/wzbbKDCp22M-KMDE3bElq6XxP8w\"",
+      "id": "_YbyzAZHt_E",
+      "snippet": {
+        "publishedAt": "2018-10-20T17:03:21.000Z",
+        "channelId": "UC2Ru64PHqW4FxoP0xhQRvJg",
+        "title": "НАСКОЛЬКО ОПАСНЫ ПОДПИСЧИКИ? — ТОПЛЕС",
+        "description": "Новая GoPro HERO7 Black — это стабилизация HyperSmooth, интеллектуальная съемка для автоматических фотографий, прямые трансляции LifeStreaming и стабилизированный таймлапс с ускорением TimeWarp.\nА ещё новая камера от GoPro прочная и водонепроницаемая на глубине до 10 метров.\n\nЧтобы выиграть новую GoPro HERO7 Black:\n1. Сделайте репост этого видео с YouTube на свою станичку в VK.\n2. Подпишитесь на группу GoPro в VK, вот ссылка https://goo.gl/2tKBtv.\n3. Напишите в комментариях, каким был хейт в вашей жизни? Хейтил кто-то вас или хейтили вы кого-то? Может меня?\n4. Поставьте лайк к этому выпуску у меня на странице в VK, чтобы я мог убедиться, что вы сделали репост.\nУже скоро Рандомайзер выберет победителя, и я объявлю его на своей странице VK ( https://vk.com/yanlapotkov )\n\nМой хейтер Ланч, он хороший, как оказалось при встрече ► https://www.instagram.com/lanchevsky/?hl=ru\n\nДополнительный материал по выпуску в группе VK ► https://vk.com/toples_show\n\nОТДЫХАЕМ ОТ НАУКИ ТУТ ► https://goo.gl/LFf4Dj\n\nЯ В VK ► https://vk.com/yanlapotkov\nINSTAGRAM ► https://www.instagram.com/yan_lapotkov/\n\nTWITTER ► https://twitter.com/drunish\n\n\nСмотрите больше видео:\nКОСМОС ► https://goo.gl/uCkfD3\nТЕХНОЛОГИИ ► https://goo.gl/vLdH2H\nИГРЫ ► https://goo.gl/17LhoN\nКИНО ► https://goo.gl/ZUgWGD\nVLOG ► https://goo.gl/z88cuS\nСТРАХ ► https://goo.gl/b6fu5K\nЖИВОТНЫЕ ► https://goo.gl/jn93tz\nОЧЕНЬ ИНТЕРЕСНЫЕ ► https://goo.gl/Prcrtj\n\n\nРеклама, сотрудничество: toples.show@gmail.com\n\n#топлес #хейтеры #янтоплес #соболев #айкакпросто #афоня #хованский #нойз #лиззка #атева #ларин #джарахов #gopro #дисс #willsmith #уиллсмитт\n\n\nИСТОЧНИКИ:\nhttps://docs.google.com/document/d/1-85c3ab3ObTgsd0ZIvZTiwUeHIccIV8ZEL0gNtTcrTg/edit\n\nНад выпуском Работали:\nЯн Лапотков\nВадим Куликов\nАндрей Савельев\nАндрей Алексин\nКатя",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_YbyzAZHt_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_YbyzAZHt_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_YbyzAZHt_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_YbyzAZHt_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_YbyzAZHt_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ТОПЛЕС",
+        "tags": [
+          "топлес",
+          "ян топлес",
+          "ян лапотков",
+          "topless",
+          "топлес шоу",
+          "я не каспар",
+          "янекаспар",
+          "хейтеры",
+          "соболев",
+          "айкакпросто",
+          "афоня",
+          "хованский",
+          "нойз",
+          "лиззка",
+          "атева",
+          "ларин",
+          "джарахов",
+          "уиллсмитт",
+          "willsmith"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "НАСКОЛЬКО ОПАСНЫ ПОДПИСЧИКИ? — ТОПЛЕС",
+          "description": "Новая GoPro HERO7 Black — это стабилизация HyperSmooth, интеллектуальная съемка для автоматических фотографий, прямые трансляции LifeStreaming и стабилизированный таймлапс с ускорением TimeWarp.\nА ещё новая камера от GoPro прочная и водонепроницаемая на глубине до 10 метров.\n\nЧтобы выиграть новую GoPro HERO7 Black:\n1. Сделайте репост этого видео с YouTube на свою станичку в VK.\n2. Подпишитесь на группу GoPro в VK, вот ссылка https://goo.gl/2tKBtv.\n3. Напишите в комментариях, каким был хейт в вашей жизни? Хейтил кто-то вас или хейтили вы кого-то? Может меня?\n4. Поставьте лайк к этому выпуску у меня на странице в VK, чтобы я мог убедиться, что вы сделали репост.\nУже скоро Рандомайзер выберет победителя, и я объявлю его на своей странице VK ( https://vk.com/yanlapotkov )\n\nМой хейтер Ланч, он хороший, как оказалось при встрече ► https://www.instagram.com/lanchevsky/?hl=ru\n\nДополнительный материал по выпуску в группе VK ► https://vk.com/toples_show\n\nОТДЫХАЕМ ОТ НАУКИ ТУТ ► https://goo.gl/LFf4Dj\n\nЯ В VK ► https://vk.com/yanlapotkov\nINSTAGRAM ► https://www.instagram.com/yan_lapotkov/\n\nTWITTER ► https://twitter.com/drunish\n\n\nСмотрите больше видео:\nКОСМОС ► https://goo.gl/uCkfD3\nТЕХНОЛОГИИ ► https://goo.gl/vLdH2H\nИГРЫ ► https://goo.gl/17LhoN\nКИНО ► https://goo.gl/ZUgWGD\nVLOG ► https://goo.gl/z88cuS\nСТРАХ ► https://goo.gl/b6fu5K\nЖИВОТНЫЕ ► https://goo.gl/jn93tz\nОЧЕНЬ ИНТЕРЕСНЫЕ ► https://goo.gl/Prcrtj\n\n\nРеклама, сотрудничество: toples.show@gmail.com\n\n#топлес #хейтеры #янтоплес #соболев #айкакпросто #афоня #хованский #нойз #лиззка #атева #ларин #джарахов #gopro #дисс #willsmith #уиллсмитт\n\n\nИСТОЧНИКИ:\nhttps://docs.google.com/document/d/1-85c3ab3ObTgsd0ZIvZTiwUeHIccIV8ZEL0gNtTcrTg/edit\n\nНад выпуском Работали:\nЯн Лапотков\nВадим Куликов\nАндрей Савельев\nАндрей Алексин\nКатя"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "1378194",
+        "likeCount": "147010",
+        "dislikeCount": "2643",
+        "favoriteCount": "0",
+        "commentCount": "17094"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/L2IVmJSdQj3gcZOrNsFTK3d4ODg\"",
+      "id": "3dRZKJ_QF8o",
+      "snippet": {
+        "publishedAt": "2018-05-27T13:32:11.000Z",
+        "channelId": "UCYg4MvKj-fWVs3cNa85p0XA",
+        "title": "3 ways to Fix 'Failed to start recording' (NVENC codec)  in OBS (2018)",
+        "description": "Log file error:\n[NVENC encoder: 'simple_h264_recording'] Failed to open NVENC codec: Generic error in an external library\n\nDonate:\nhttps://paypal.me/pools/c/84LyNlvSFq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3dRZKJ_QF8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3dRZKJ_QF8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3dRZKJ_QF8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3dRZKJ_QF8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Joshid Coates",
+        "tags": [
+          "OBS",
+          "NVENC",
+          "Failed to start recording"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "3 ways to Fix 'Failed to start recording' (NVENC codec)  in OBS (2018)",
+          "description": "Log file error:\n[NVENC encoder: 'simple_h264_recording'] Failed to open NVENC codec: Generic error in an external library\n\nDonate:\nhttps://paypal.me/pools/c/84LyNlvSFq"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "14860",
+        "likeCount": "168",
+        "dislikeCount": "132",
+        "favoriteCount": "0",
+        "commentCount": "65"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/VHSxJp0Z-8yEUmTrDMVOiu0m0BA\"",
+      "id": "jTW8SiIPB0U",
+      "snippet": {
+        "publishedAt": "2018-10-08T19:20:47.000Z",
+        "channelId": "UC8cv-r6auDJtzsu9HmRIJAQ",
+        "title": "РУССКИЕ ХАКЕРЫ обратились ко всему миру круче чем Фрэнк Ундервуд | Russian Hackers Life 18+",
+        "description": "Они - дно даркнета. И они выползли из него, чтобы явить себя миру. Russian Hackers начинают свой хакер резистенс. 10 октября, в 19:36. Вселенная Хакинга запустится.\n\nWelcome to darknet! America Tomorrow has done a documentary movie about Russian hackers, but didn’t release it. We asked for author’s rights and were answered: «Do whatever you want». Exclusive (!) on channel «Дикий Digital» – real life of hopefully real russian hackers. Russian geeks Boris, Fedor and Ignat are going to hack the world!\n\nSUBSCRIBE: https://bit.ly/2N0SNfY\n\nConnect with Hackers!\n\nТвит Hackers on TWITTER:\nhttps://twitter.com/RussianHackers8 \n\nЛайк Hackers on INSTAGRAM: \nhttps://www.instagram.com/russian_hackers_life/\n\nФоллоу Hackers on VKONTAKTE:\nhttps://vk.com/russian_hackers_life\n\n\n\nIDEA by Vick Chen\nDIRECTED by Viki Krave\n\nSee you in crazy russian hackers darknet, hahah\n- - -\n\nAmerica Tomorrow сняли документальный сериал про русских хакеров. Погружаемся в даркнет! Шоу в духе сериала силиконовая долина. Но если там было о том, как стать стартапером, то здесь о том, как стать хакером. Это не anonymous. Это ПОХ! Они готовят вирус Fedya, который может все: взлом вк 2018 или взлом пентагона - что угодно. Уже скоро все узнают про них! Русские хакеры: Федор, Борис, Игнат.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jTW8SiIPB0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jTW8SiIPB0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jTW8SiIPB0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jTW8SiIPB0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jTW8SiIPB0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Дикий Digital",
+        "tags": [
+          "дикий digital",
+          "русские хакеры",
+          "вселенная хакинга",
+          "Как стать хакером",
+          "хакеры 2018",
+          "взлом вк 2018",
+          "вирус петя",
+          "crazy russian hacker",
+          "программа для взлома вк",
+          "какой антивирус лучше",
+          "anonymous на русском",
+          "anonymous",
+          "хакеры фильм",
+          "хакеры взломали",
+          "хакинг",
+          "кибератака",
+          "силиконовая долина кубик в кубе",
+          "реальные упыри",
+          "силиконовая долина",
+          "веб-сериал",
+          "Кремниевая долина",
+          "даркнет",
+          "даркнет хакеры",
+          "даркнет сериал",
+          "russian hacker",
+          "russian",
+          "russian geek",
+          "hacker",
+          "взлом вк",
+          "darknet",
+          "нетсталкинг"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "РУССКИЕ ХАКЕРЫ обратились ко всему миру круче чем Фрэнк Ундервуд | Russian Hackers Life 18+",
+          "description": "Они - дно даркнета. И они выползли из него, чтобы явить себя миру. Russian Hackers начинают свой хакер резистенс. 10 октября, в 19:36. Вселенная Хакинга запустится.\n\nWelcome to darknet! America Tomorrow has done a documentary movie about Russian hackers, but didn’t release it. We asked for author’s rights and were answered: «Do whatever you want». Exclusive (!) on channel «Дикий Digital» – real life of hopefully real russian hackers. Russian geeks Boris, Fedor and Ignat are going to hack the world!\n\nSUBSCRIBE: https://bit.ly/2N0SNfY\n\nConnect with Hackers!\n\nТвит Hackers on TWITTER:\nhttps://twitter.com/RussianHackers8 \n\nЛайк Hackers on INSTAGRAM: \nhttps://www.instagram.com/russian_hackers_life/\n\nФоллоу Hackers on VKONTAKTE:\nhttps://vk.com/russian_hackers_life\n\n\n\nIDEA by Vick Chen\nDIRECTED by Viki Krave\n\nSee you in crazy russian hackers darknet, hahah\n- - -\n\nAmerica Tomorrow сняли документальный сериал про русских хакеров. Погружаемся в даркнет! Шоу в духе сериала силиконовая долина. Но если там было о том, как стать стартапером, то здесь о том, как стать хакером. Это не anonymous. Это ПОХ! Они готовят вирус Fedya, который может все: взлом вк 2018 или взлом пентагона - что угодно. Уже скоро все узнают про них! Русские хакеры: Федор, Борис, Игнат."
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "935969",
+        "likeCount": "2113",
+        "dislikeCount": "79",
+        "favoriteCount": "0",
+        "commentCount": "115"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/LP6VC46SR-olm0ZVJD7bcvcR50Q\"",
+      "id": "xjnCgfEhYwk",
+      "snippet": {
+        "publishedAt": "2018-09-27T18:19:01.000Z",
+        "channelId": "UCPnre2RTL4fJNGE0YZY0w2A",
+        "title": "Morphine Suffering — Я Не Вiрю",
+        "description": "Слухати/придбати трек:\n_____\n►► iTunes - https://goo.gl/a8cg1Y\n►► Apple Music - https://goo.gl/6W2QYt\n►► Google Play - https://goo.gl/QL6G7u\n_____\nINSTAGRAM: https://www.instagram.com/morphinesuf...\nFACEBOOK: https://www.facebook.com/morphinesuff...\nVK: https://vk.com/morphinesuffering\nWEB: https://www.morphinesuffering.com/\n_____\n\nЯ НЕ ВІРЮ\n\nСеред ідеалів\nЩо нав’язані всім нам\nНе розшукати вдалих\nЩо обрав би собі сам\n\nНав’язаний стимул\nЦіль ховають за ширму\nЯк впізнати без гриму\nХто твій друг, побратиме?\nВсе як на карнавалі\nМаски, ролі, медалі\nІ які ще моралі\nНам підсунуть надалі\n\nНі, я не вірю більше!\nЯ не вірю вашим словам\nВзамін краще тиша\nЯ не вірю\nЯ не вірю вам\nНі я не вірю більше\nІ право вибору вам не віддам\nЛишаюся у тиші\nЯ не вірю\nЯ не вірю вам\n\nПробивай свій вихід\nЗломай в собі паркан\nІ нехай світ навколо зблід\nНехай всі навколо мовчать\n\nНав’язаний стимул,\nЦіль ховають за ширму,\nЯк впізнати без гриму\nХто твій друг, побратиме?\nВсе як на карнавалі\nМаски, ролі, медалі\nІ які ще моралі\nНам підсунуть надалі\n\nНі, я не вірю більше!\nЯ не вірю вашим словам\nВзамін краще тиша\nЯ не вірю\nЯ не вірю вам\nНі я не вірю більше\nІ право вибору вам не віддам\nЛишаюся у тиші\nЯ не вірю\nЯ не вірю вам",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjnCgfEhYwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjnCgfEhYwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjnCgfEhYwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xjnCgfEhYwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xjnCgfEhYwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Morphine Suffering",
+        "tags": [
+          "morphine suffering",
+          "rock",
+          "metal",
+          "metalcore",
+          "trancecore",
+          "melodic metalcore",
+          "українська",
+          "музика"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "uk",
+        "localized": {
+          "title": "Morphine Suffering — Я Не Вiрю",
+          "description": "Слухати/придбати трек:\n_____\n►► iTunes - https://goo.gl/a8cg1Y\n►► Apple Music - https://goo.gl/6W2QYt\n►► Google Play - https://goo.gl/QL6G7u\n_____\nINSTAGRAM: https://www.instagram.com/morphinesuf...\nFACEBOOK: https://www.facebook.com/morphinesuff...\nVK: https://vk.com/morphinesuffering\nWEB: https://www.morphinesuffering.com/\n_____\n\nЯ НЕ ВІРЮ\n\nСеред ідеалів\nЩо нав’язані всім нам\nНе розшукати вдалих\nЩо обрав би собі сам\n\nНав’язаний стимул\nЦіль ховають за ширму\nЯк впізнати без гриму\nХто твій друг, побратиме?\nВсе як на карнавалі\nМаски, ролі, медалі\nІ які ще моралі\nНам підсунуть надалі\n\nНі, я не вірю більше!\nЯ не вірю вашим словам\nВзамін краще тиша\nЯ не вірю\nЯ не вірю вам\nНі я не вірю більше\nІ право вибору вам не віддам\nЛишаюся у тиші\nЯ не вірю\nЯ не вірю вам\n\nПробивай свій вихід\nЗломай в собі паркан\nІ нехай світ навколо зблід\nНехай всі навколо мовчать\n\nНав’язаний стимул,\nЦіль ховають за ширму,\nЯк впізнати без гриму\nХто твій друг, побратиме?\nВсе як на карнавалі\nМаски, ролі, медалі\nІ які ще моралі\nНам підсунуть надалі\n\nНі, я не вірю більше!\nЯ не вірю вашим словам\nВзамін краще тиша\nЯ не вірю\nЯ не вірю вам\nНі я не вірю більше\nІ право вибору вам не віддам\nЛишаюся у тиші\nЯ не вірю\nЯ не вірю вам"
+        },
+        "defaultAudioLanguage": "uk"
+      },
+      "statistics": {
+        "viewCount": "50202",
+        "likeCount": "1943",
+        "dislikeCount": "52",
+        "favoriteCount": "0",
+        "commentCount": "165"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/lSJzgDx1CkXY9zdTdoJfhx-B2mA\"",
+      "id": "F25U9AUHmBc",
+      "snippet": {
+        "publishedAt": "2018-09-27T16:30:14.000Z",
+        "channelId": "UCRMhRfQfaDs-HRaBTDCUK4A",
+        "title": "Боб – НИНДЗЯ (эпизод 9, сезон 4)",
+        "description": "Боб в ВК: https://vk.com/thisisbob_official\nСотрудничество: bob@wildjam.ru\nInstagram Боба: https://www.instagram.com/official_this_is_bob/\nКанал «ЧТО, ЕСЛИ»: https://goo.gl/2EinWX\nКанал «ИГРЫ РАЗУМА»: https://goo.gl/yhaAj1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F25U9AUHmBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F25U9AUHmBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F25U9AUHmBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F25U9AUHmBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F25U9AUHmBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Знакомьтесь, Боб",
+        "tags": [
+          "диктор",
+          "КБ",
+          "боб",
+          "знакомьтесь боб",
+          "что если",
+          "игры разума",
+          "ЧЕ",
+          "факты",
+          "наука",
+          "наурто",
+          "аниме",
+          "боб аниме",
+          "знакомьтесь боб серия аниме",
+          "БОБ НИНДЗЯ",
+          "hello bob anime",
+          "this is bob anime",
+          "все серии знакомьтеьс боб"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Боб – НИНДЗЯ (эпизод 9, сезон 4)",
+          "description": "Боб в ВК: https://vk.com/thisisbob_official\nСотрудничество: bob@wildjam.ru\nInstagram Боба: https://www.instagram.com/official_this_is_bob/\nКанал «ЧТО, ЕСЛИ»: https://goo.gl/2EinWX\nКанал «ИГРЫ РАЗУМА»: https://goo.gl/yhaAj1"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "3525203",
+        "likeCount": "120927",
+        "dislikeCount": "2902",
+        "favoriteCount": "0",
+        "commentCount": "18360"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/HfuWB80SQJmeQ7zxXI_twXQfnsY\"",
+      "id": "92ls8j5BC54",
+      "snippet": {
+        "publishedAt": "2018-08-23T19:05:34.000Z",
+        "channelId": "UCIupfj3rki6dfjQqFKbXzMA",
+        "title": "\"Мстители: Война Бесконечности\" - ВСЕ отсылки и пасхалки | Киновселенная Marvel 2018",
+        "description": "Пройди тест Тинькофф Банка - https://l.tinkoff.ru/ctcivi\n\nДрузья, оговорился и фильм Мстители: Война бесконечности\" не входит в подписку и посмотреть бесплатно его пока нельзя. Зато можно посмотрить другие фильмы из киновселенной! \nСорян.\n\nЯ в инстаграме - http://instagram.com/timberm4n\nЯ в вк - http://vk.com/timberm4n\n\nНеужели Стрендж был в прошлом - https://youtu.be/k3bJHLKpXEU\nНеужели Локи не умер - https://youtu.be/alFVhQocy0o\n\nТеория о квантовой реальности - https://youtu.be/_oiFw3phwNk\n\nCut The Crap TV в соц сетях:\nВконтакте - http://vk.com/CutTheCrapTV\nTelegram - http://t.me/cutterpool\nTwitter - https://twitter.com/cutterpool\nFacebook - http://facebook.com/cutthecraptv\nInstagram - https://www.instagram.com/cutthecraptv\nCoub - http://coub.com/cutthecraptv\n\nМой второй канал - http://bit.ly/CutTheCrapLIFE\nМой третий канал - http://bit.ly/Miles_Away\n\nЧто показали в трейлере - https://goo.gl/BDw5bN\nТеории - https://goo.gl/aGzs24\nНеужели - https://goo.gl/rwkxjQ\nМои мнения о фильмах - https://goo.gl/2xEZWe\n\nДля тех, кто хочет поддержать канал:\nMoney.Yandex — 410012493400484\nWebmoney (RUB) — R358725236086\nWebmoney (USD) — Z240853394649\nQiwi кошелек — +79524213517\nСбербанк - 4817760069156309 (+79524213517)\nPayPal - khar4er@gmail.com\n\nМузыка (чаще всего):\nProleter - April Showers\nTopher Mohr and Alex Helena - Brontosaurus\nVictor Ohlsson - West Coast Groove 4\nJohannes bornlöf - Into The Maze\nNo One Stand Still - На Руинах",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92ls8j5BC54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92ls8j5BC54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92ls8j5BC54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/92ls8j5BC54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/92ls8j5BC54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cut The Crap",
+        "tags": [
+          "cut the crap tv",
+          "cutthecrap",
+          "котокраб",
+          "катзекрэп",
+          "cut the crap",
+          "что",
+          "показали",
+          "в",
+          "трейлере",
+          "марвел",
+          "marvel",
+          "обзор",
+          "разбор",
+          "полный разбор",
+          "подробный разбор",
+          "мега разбор",
+          "секреты и детали",
+          "скрытые детали",
+          "детали мстителей",
+          "мстители",
+          "мстители 3",
+          "война бесконечности"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "\"Мстители: Война Бесконечности\" - ВСЕ отсылки и пасхалки | Киновселенная Marvel 2018",
+          "description": "Пройди тест Тинькофф Банка - https://l.tinkoff.ru/ctcivi\n\nДрузья, оговорился и фильм Мстители: Война бесконечности\" не входит в подписку и посмотреть бесплатно его пока нельзя. Зато можно посмотрить другие фильмы из киновселенной! \nСорян.\n\nЯ в инстаграме - http://instagram.com/timberm4n\nЯ в вк - http://vk.com/timberm4n\n\nНеужели Стрендж был в прошлом - https://youtu.be/k3bJHLKpXEU\nНеужели Локи не умер - https://youtu.be/alFVhQocy0o\n\nТеория о квантовой реальности - https://youtu.be/_oiFw3phwNk\n\nCut The Crap TV в соц сетях:\nВконтакте - http://vk.com/CutTheCrapTV\nTelegram - http://t.me/cutterpool\nTwitter - https://twitter.com/cutterpool\nFacebook - http://facebook.com/cutthecraptv\nInstagram - https://www.instagram.com/cutthecraptv\nCoub - http://coub.com/cutthecraptv\n\nМой второй канал - http://bit.ly/CutTheCrapLIFE\nМой третий канал - http://bit.ly/Miles_Away\n\nЧто показали в трейлере - https://goo.gl/BDw5bN\nТеории - https://goo.gl/aGzs24\nНеужели - https://goo.gl/rwkxjQ\nМои мнения о фильмах - https://goo.gl/2xEZWe\n\nДля тех, кто хочет поддержать канал:\nMoney.Yandex — 410012493400484\nWebmoney (RUB) — R358725236086\nWebmoney (USD) — Z240853394649\nQiwi кошелек — +79524213517\nСбербанк - 4817760069156309 (+79524213517)\nPayPal - khar4er@gmail.com\n\nМузыка (чаще всего):\nProleter - April Showers\nTopher Mohr and Alex Helena - Brontosaurus\nVictor Ohlsson - West Coast Groove 4\nJohannes bornlöf - Into The Maze\nNo One Stand Still - На Руинах"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "1806724",
+        "likeCount": "72985",
+        "dislikeCount": "3306",
+        "favoriteCount": "0",
+        "commentCount": "4634"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/yYkWhgEuJ-VLsWPArXHWhMe10qc\"",
+      "id": "MowrhTNviBQ",
+      "snippet": {
+        "publishedAt": "2018-08-21T11:27:36.000Z",
+        "channelId": "UCgwj7EbDmW6WUITtq-eUX0w",
+        "title": "Биткоин прогноз от Coinshares | Кризис биткоин неминуем??",
+        "description": "Добро пожаловать на канал Еnterneko/Энтернеко. Здесь горячие новости о криптовалюте, факты мира криптовалют и аналитика криптовалюты из уст экспертов!\n\nЧто происходит с биткоином? Поговорим про биткоин пузырь.\nКак повлияет кризис биткоина на будущее? Повлияет ли сам финансовый кризис на рост биткоина? Все переживают, почему упал биткоин, а вот гендиректор Coinshares уверяет, что биткоин цена в норме, ведь в самом начале было ниже. Мы перевели для вас биткоин прогноз с американских новостей и теперь осталось только дождаться, когда вырастет биткоин. Узнайте, как поведет себя криптовалюта 2018 года, какой прогноз курса биткоина более вероятный и, от каких факторов зависит прогноз биткоина.\n\n☛По вопросам сотрудничества: businessenterneko@gmail.com \n\n✌Привет! С вами канал Еnterneko \n\nИнга передает вам привет из отпуска! Специально для вас она перевела свежий выпуск новостей с американского канала CNBC, чтобы вы тоже были в курсе новостей!\n\nВ гостях у студии генеральный директор по стратегии Coinshares, Мельтем Демирорс. Она расскажет, почему биткоин не стоит воспринимать, в настоящий момент, как актив, зачем покупать криптовалюту, если она не стабильна и чем может заинтересовать цифровой проект.\n\nПишите свое мнение в комментариях! Как вам такой формат выпуска?\n\nОригинал выпуска новостей:  https://www.youtube.com/watch?v=Mjw-CDUzMXM\n____________________________________________________________ \n____________________________________________________________ \n\n★Инга в Instagram: https://www.instagram.com/ingalyangle/ \n★Instagram Enterneko: https://www.instagram.com/enterneko/ \n★Форум Enterneko: http://enterneko.com/ \n★ВК: https://vk.com/enterneko0 \n★Telegram Enterneko: https://t.me/Enterneko_Invest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MowrhTNviBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MowrhTNviBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MowrhTNviBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MowrhTNviBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MowrhTNviBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "enterneko",
+        "tags": [
+          "биткоин пузырь",
+          "кризис биткоин",
+          "финансовый кризис",
+          "почему упал биткоин",
+          "когда вырастет биткоин",
+          "рост биткоина",
+          "биткоин прогноз",
+          "enterneko",
+          "энтернеко",
+          "новости о криптовалюте",
+          "факты мира криптовалют",
+          "аналитика криптовалюты",
+          "биткоин цена",
+          "криптовалюта 2018",
+          "прогноз курса биткоина",
+          "прогноз биткоин",
+          "что происходит с биткоином"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Биткоин прогноз от Coinshares | Кризис биткоин неминуем??",
+          "description": "Добро пожаловать на канал Еnterneko/Энтернеко. Здесь горячие новости о криптовалюте, факты мира криптовалют и аналитика криптовалюты из уст экспертов!\n\nЧто происходит с биткоином? Поговорим про биткоин пузырь.\nКак повлияет кризис биткоина на будущее? Повлияет ли сам финансовый кризис на рост биткоина? Все переживают, почему упал биткоин, а вот гендиректор Coinshares уверяет, что биткоин цена в норме, ведь в самом начале было ниже. Мы перевели для вас биткоин прогноз с американских новостей и теперь осталось только дождаться, когда вырастет биткоин. Узнайте, как поведет себя криптовалюта 2018 года, какой прогноз курса биткоина более вероятный и, от каких факторов зависит прогноз биткоина.\n\n☛По вопросам сотрудничества: businessenterneko@gmail.com \n\n✌Привет! С вами канал Еnterneko \n\nИнга передает вам привет из отпуска! Специально для вас она перевела свежий выпуск новостей с американского канала CNBC, чтобы вы тоже были в курсе новостей!\n\nВ гостях у студии генеральный директор по стратегии Coinshares, Мельтем Демирорс. Она расскажет, почему биткоин не стоит воспринимать, в настоящий момент, как актив, зачем покупать криптовалюту, если она не стабильна и чем может заинтересовать цифровой проект.\n\nПишите свое мнение в комментариях! Как вам такой формат выпуска?\n\nОригинал выпуска новостей:  https://www.youtube.com/watch?v=Mjw-CDUzMXM\n____________________________________________________________ \n____________________________________________________________ \n\n★Инга в Instagram: https://www.instagram.com/ingalyangle/ \n★Instagram Enterneko: https://www.instagram.com/enterneko/ \n★Форум Enterneko: http://enterneko.com/ \n★ВК: https://vk.com/enterneko0 \n★Telegram Enterneko: https://t.me/Enterneko_Invest"
+        }
+      },
+      "statistics": {
+        "viewCount": "4978",
+        "likeCount": "199",
+        "dislikeCount": "38",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/SzYj_bE4XVtGvr6xk6LJBXBsFzU\"",
+      "id": "Ox4TwCq351Q",
+      "snippet": {
+        "publishedAt": "2017-10-25T10:16:20.000Z",
+        "channelId": "UCsxuHmv-5Z9DCxC7bcbBr7w",
+        "title": "Amatory - Остановить Время (Vocal Cover)",
+        "description": "Amatory - Остановить Время\n\n►ВСТРЕЧА КОНЦЕРТА - http://bit.ly/timesquaretonns\n-----------------------------------------------------------------------------\n►QWEEX Production\n     web - qweex.ru\n     inst - @qweexru\n     vk - vk.com/qweexru\n     tel - +7 499 13 063 13\n     mail - production@qweex.ru\n-------------------------------------------------------------------------------\n►МОЯ ГРУППА:\n    http://bit.ly/timesquareband1\n    https://www.facebook.com/TAuMCKBEP/\n    https://www.instagram.com/timesquareband/\n-------------------------------------------------------------------------------\n► Lepsky guitars:\n     Facebook - https://www.facebook.com/lepskyguitar...\n     Vk - https://vk.com/lepskyguitars \n     INSTAGRAM - https://www.instagram.com/lepskyguitars/\n     Web site - http://lepsky.ru\n---------------------------------------------------------------------------------\n► MY LINKS:\n     FACEBOOK  - https://www.facebook.com/profile.php?id=100005603839032\n     VK - http://vk.com/kirill_babiev\n     INSTAGRAM - https://www.instagram.com/kirill_babiev/\n\nВокальный/гитарный кавер (cover) на трек Аматори - Оставновить время",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ox4TwCq351Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ox4TwCq351Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ox4TwCq351Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ox4TwCq351Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ox4TwCq351Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kirill Babiev",
+        "tags": [
+          "Кирилл Бабиев",
+          "Таймсквер",
+          "Amatory",
+          "Аматори",
+          "Остановить время",
+          "Kirill Babiev",
+          "Lepsky guitars",
+          "Lepsky",
+          "vocal cover",
+          "vocal",
+          "Голос",
+          "голос5",
+          "Amatory cover",
+          "Amatory кавер",
+          "Amatory vocal",
+          "Amatory вокал",
+          "Amatory остановить время",
+          "Остановить время кавер",
+          "Остановить время cover",
+          "Кирилл Бабиев Amatory",
+          "Amatory Таймсквер",
+          "rock cover",
+          "metal cover",
+          "Аматори вокал",
+          "Аматори cover",
+          "Аматори остановить время"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Amatory - Остановить Время (Vocal Cover)",
+          "description": "Amatory - Остановить Время\n\n►ВСТРЕЧА КОНЦЕРТА - http://bit.ly/timesquaretonns\n-----------------------------------------------------------------------------\n►QWEEX Production\n     web - qweex.ru\n     inst - @qweexru\n     vk - vk.com/qweexru\n     tel - +7 499 13 063 13\n     mail - production@qweex.ru\n-------------------------------------------------------------------------------\n►МОЯ ГРУППА:\n    http://bit.ly/timesquareband1\n    https://www.facebook.com/TAuMCKBEP/\n    https://www.instagram.com/timesquareband/\n-------------------------------------------------------------------------------\n► Lepsky guitars:\n     Facebook - https://www.facebook.com/lepskyguitar...\n     Vk - https://vk.com/lepskyguitars \n     INSTAGRAM - https://www.instagram.com/lepskyguitars/\n     Web site - http://lepsky.ru\n---------------------------------------------------------------------------------\n► MY LINKS:\n     FACEBOOK  - https://www.facebook.com/profile.php?id=100005603839032\n     VK - http://vk.com/kirill_babiev\n     INSTAGRAM - https://www.instagram.com/kirill_babiev/\n\nВокальный/гитарный кавер (cover) на трек Аматори - Оставновить время"
+        }
+      },
+      "statistics": {
+        "viewCount": "168345",
+        "likeCount": "9160",
+        "dislikeCount": "309",
+        "favoriteCount": "0",
+        "commentCount": "566"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/nMhRy775hvnOSzpQdc5Vs0E-8VA\"",
+      "id": "UgvE9xtGhUo",
+      "snippet": {
+        "publishedAt": "2018-06-08T15:25:01.000Z",
+        "channelId": "UCByAezEc9hdmjX-AjjfjHEA",
+        "title": "Обзор самокатов Razor A5 Lux и Razor A6 Silver от Давида и Саши",
+        "description": "Давид и Саша решили протестировать две очень популярные и весьма удачные модели самокатов Razor A5 Lux и Razor A6 Silver. Предлагаем вам весело провести с ними время в цветущем киевском парке, и посмотреть на что способен самый легкий и один из самых практичных городских самокатов в мире. \nВидеообзор\nRazor A5 Lux: https://bit.ly/2HtPryO\nRazor A6 Silver: https://bit.ly/2kWfKVL\n\nСмотреть обзоры игрушек для мальчиков: https://bit.ly/2LsIfFE\nСмотреть обзоры игрушек для девочек: https://bit.ly/2sPv8a1\n\nВсе самокаты Razor: https://bit.ly/2Hrpn7K\nДругие детские самокаты: https://bit.ly/2szwyGj\n\nПрисоединяйтесь к нам в соцсетях!\nВКонтакте: https://vk.com/rozetka\nFacebook: http://facebook.com/rozetka.ua\nGoogle+: https://plus.google.com/+rozetka/\nTwitter: https://twitter.com/rozetka_news\nInstagram: http://instagram.com/rozetkaua/\n\nЧитайте наши новости и советы по выбору!\nhttp://rozetka.com.ua/news-articles-promotions/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UgvE9xtGhUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UgvE9xtGhUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UgvE9xtGhUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UgvE9xtGhUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UgvE9xtGhUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rozetka Kids",
+        "tags": [
+          "rozetka",
+          "rozetka.ua",
+          "rozetka kids",
+          "розетка кидс",
+          "розетка",
+          "розетка юа",
+          "обзоры игрушек",
+          "городской самокат",
+          "детский канал",
+          "видео для детей",
+          "самокат",
+          "razor",
+          "детские самокаты",
+          "самокат для города",
+          "самокат Razor A6 Silver",
+          "обзор Razor A6 Silver",
+          "городские самокаты",
+          "обзор Razor A5 Lux",
+          "самокат Razor A5 Lux",
+          "тест драйв самоката",
+          "распаковка",
+          "монстер хай",
+          "езда на самокате",
+          "как выбрать самокат",
+          "нерф",
+          "Саша Тараненко",
+          "как кататься на самокате",
+          "самокаты Razor",
+          "девочки против мальчиков",
+          "прогулка"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Обзор самокатов Razor A5 Lux и Razor A6 Silver от Давида и Саши",
+          "description": "Давид и Саша решили протестировать две очень популярные и весьма удачные модели самокатов Razor A5 Lux и Razor A6 Silver. Предлагаем вам весело провести с ними время в цветущем киевском парке, и посмотреть на что способен самый легкий и один из самых практичных городских самокатов в мире. \nВидеообзор\nRazor A5 Lux: https://bit.ly/2HtPryO\nRazor A6 Silver: https://bit.ly/2kWfKVL\n\nСмотреть обзоры игрушек для мальчиков: https://bit.ly/2LsIfFE\nСмотреть обзоры игрушек для девочек: https://bit.ly/2sPv8a1\n\nВсе самокаты Razor: https://bit.ly/2Hrpn7K\nДругие детские самокаты: https://bit.ly/2szwyGj\n\nПрисоединяйтесь к нам в соцсетях!\nВКонтакте: https://vk.com/rozetka\nFacebook: http://facebook.com/rozetka.ua\nGoogle+: https://plus.google.com/+rozetka/\nTwitter: https://twitter.com/rozetka_news\nInstagram: http://instagram.com/rozetkaua/\n\nЧитайте наши новости и советы по выбору!\nhttp://rozetka.com.ua/news-articles-promotions/"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "3041",
+        "likeCount": "65",
+        "dislikeCount": "14",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/69fo1xXDfbDiQ0YQlV8-7XyLgBA\"",
+      "id": "CcOsDP-29rU",
+      "snippet": {
+        "publishedAt": "2017-12-14T14:24:23.000Z",
+        "channelId": "UCrkw6GAFlF8nr29-snNFjIg",
+        "title": "Полонский и Трансформатор о проблемах в бизнесе",
+        "description": "Сергей Полонский и трансформатор поспорили о том, есть ли проблемы у современного бизнеса. Чтобы узнать правду, Сергей Полонский через свой инстаграм позвал на встречу 10 предпринимателей.\n\nПрисоединяйтесь к нашей команде. Добро пожаловать в ШТАБ:  http://polonium.com\n\nFacebook - https://www.facebook.com/sergeypolonsky\nVkontakte - https://vk.com/polonium194\nInstagram - https://www.instagram.com/s.polonium/\nTelegram - http://t.me/polonsky",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CcOsDP-29rU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CcOsDP-29rU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CcOsDP-29rU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CcOsDP-29rU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CcOsDP-29rU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Сергей Полонский",
+        "tags": [
+          "сергей полонский",
+          "полонский",
+          "портнягин",
+          "дмитрий портнягин",
+          "трансформатор",
+          "бизнес",
+          "предприниматели",
+          "молодые предприниматели",
+          "президент",
+          "штаб",
+          "бизнес сообщество",
+          "выборы",
+          "бизнес молодость"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Полонский и Трансформатор о проблемах в бизнесе",
+          "description": "Сергей Полонский и трансформатор поспорили о том, есть ли проблемы у современного бизнеса. Чтобы узнать правду, Сергей Полонский через свой инстаграм позвал на встречу 10 предпринимателей.\n\nПрисоединяйтесь к нашей команде. Добро пожаловать в ШТАБ:  http://polonium.com\n\nFacebook - https://www.facebook.com/sergeypolonsky\nVkontakte - https://vk.com/polonium194\nInstagram - https://www.instagram.com/s.polonium/\nTelegram - http://t.me/polonsky"
+        }
+      },
+      "statistics": {
+        "viewCount": "99633",
+        "likeCount": "2106",
+        "dislikeCount": "340",
+        "favoriteCount": "0",
+        "commentCount": "469"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/bAKNXRUrkE2sE17TZvgEJqdKO9M\"",
+      "id": "1GDeSwMOJzg",
+      "snippet": {
+        "publishedAt": "2018-08-01T21:13:25.000Z",
+        "channelId": "UCuG19CmpJEamTpQo0xKWqxg",
+        "title": "Невзоров - нельзя отдавать ребенка в школу",
+        "description": "Помочь каналу - https://www.donationalerts.com/c/petademon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1GDeSwMOJzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1GDeSwMOJzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1GDeSwMOJzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1GDeSwMOJzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1GDeSwMOJzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "petademonplus",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Невзоров - нельзя отдавать ребенка в школу",
+          "description": "Помочь каналу - https://www.donationalerts.com/c/petademon"
+        }
+      },
+      "statistics": {
+        "viewCount": "30847",
+        "likeCount": "900",
+        "dislikeCount": "50",
+        "favoriteCount": "0",
+        "commentCount": "177"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/YmuwWHRMEGey8n0awD2ZqVvSS5o\"",
+      "id": "8Z2TEauX1Eo",
+      "snippet": {
+        "publishedAt": "2018-03-18T15:44:26.000Z",
+        "channelId": "UCIZXQBYzms1Ot_fo8QBeFKQ",
+        "title": "ЗаSHITники - Где Спасибо? (Despacito cover)",
+        "description": "Во времена, когда интернет переполнен агитационными клипами, мы не будем ни к чему призывать, а просто напомним о волшебном слове \"спасибо\", которое способно творить чудеса!\n\nСпасибо студии Captain Drake! https://vk.com/captain_drake\nОператор: https://vk.com/tarasvaganov",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Z2TEauX1Eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Z2TEauX1Eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Z2TEauX1Eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Z2TEauX1Eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Z2TEauX1Eo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ник Черников",
+        "tags": [
+          "Luis Fonsi",
+          "Despacito",
+          "cover",
+          "Где Спасибо",
+          "Ник Черников",
+          "Выборы",
+          "Россия",
+          "2018",
+          "Защитники",
+          "зашитники",
+          "Заshitники",
+          "Балалайка",
+          "спасибо",
+          "Крым",
+          "Аляска",
+          "США"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ЗаSHITники - Где Спасибо? (Despacito cover)",
+          "description": "Во времена, когда интернет переполнен агитационными клипами, мы не будем ни к чему призывать, а просто напомним о волшебном слове \"спасибо\", которое способно творить чудеса!\n\nСпасибо студии Captain Drake! https://vk.com/captain_drake\nОператор: https://vk.com/tarasvaganov"
+        }
+      },
+      "statistics": {
+        "viewCount": "1277007",
+        "likeCount": "55283",
+        "dislikeCount": "2284",
+        "favoriteCount": "0",
+        "commentCount": "3034"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/MckpQWTWy0j28x8_8hF5ahNNSpY\"",
+      "id": "xzQtNWb01-E",
+      "snippet": {
+        "publishedAt": "2018-08-06T15:00:04.000Z",
+        "channelId": "UCnXppDx0xzfKqOafJunzcEw",
+        "title": "5 Привычек, Которые Изменят Вашу Жизнь",
+        "description": "Один день с Тони Роббинсом, который изменит вас навсегда!\n1 сентября в СК “Олимпийский». Купить билет со скидкой можно по ссылке - https://clck.ru/Ddihm\n\nПодписывайтесь на канал \"Искусство харизмы\" и не забывайте нажать значок уведомлений, чтобы знать, когда выходят новые видео! https://goo.gl/k7Kjak\n\nПриобрести книгу \"Искусство харизмы\", а также узнать подробнее о программах \"Университет харизмы\" и \"Управление эмоциями\" можно здесь: https://charismaoncommand.ru/\n\nВидео от Чарли из его программы «Университет Харизмы»: https://charismaoncommand.ru/academy/\n\n5 Привычек, Которые Изменят Вашу Жизнь\n\nВ жизни даже самые мелкие действия могут привести к великим результатам. Поэтому в этом видео мы рассмотрим 5 простых привычек, которые могут полностью изменить вашу жизнь к лучшему всего за несколько минут в день.\n\n0:42 Делайте то, что пугает вас в социальной сфере\n1:27 Определяйте свой идеал, прежде чем перейти к реальности\n2:26 Медитация\n3:15 Перестаньте использовать даже самую мелкую ложь\n4:08 Перестаньте слушать музыку, которая заставляет вас чувствовать, что вам чего-то не хватает\n\nНадеюсь, что видео вам понравилось, и если вам есть, что\nсказать, то оставляйте комментарии внизу!\n\nИнстаграм Чарли: @CharlieHoupert\n\nНаши другие YouTube каналы: http://frontways.ru/youtube.html \nНаш сайт: http://frontways.ru \nМы Вконтакте: https://vk.com/frontways\nКанал автора: https://www.youtube.com/user/charismaoncommand \nОригинал видео: https://www.youtube.com/watch?v=OUZwJ0P63yA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzQtNWb01-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzQtNWb01-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzQtNWb01-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xzQtNWb01-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xzQtNWb01-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Искусство харизмы",
+        "tags": [
+          "Искусство Харизмы",
+          "Frontways",
+          "Чарли Хуперт",
+          "саморазвитие",
+          "личностный рост",
+          "Советы ИХ",
+          "Анимация",
+          "Майндсет",
+          "Привычки",
+          "полезные привычки",
+          "Социальные привычки",
+          "медитация",
+          "как правильно медитировать",
+          "как изменить свою жизнь",
+          "развитие",
+          "как развить свою личность",
+          "как стать счастливее"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "5 Привычек, Которые Изменят Вашу Жизнь",
+          "description": "Один день с Тони Роббинсом, который изменит вас навсегда!\n1 сентября в СК “Олимпийский». Купить билет со скидкой можно по ссылке - https://clck.ru/Ddihm\n\nПодписывайтесь на канал \"Искусство харизмы\" и не забывайте нажать значок уведомлений, чтобы знать, когда выходят новые видео! https://goo.gl/k7Kjak\n\nПриобрести книгу \"Искусство харизмы\", а также узнать подробнее о программах \"Университет харизмы\" и \"Управление эмоциями\" можно здесь: https://charismaoncommand.ru/\n\nВидео от Чарли из его программы «Университет Харизмы»: https://charismaoncommand.ru/academy/\n\n5 Привычек, Которые Изменят Вашу Жизнь\n\nВ жизни даже самые мелкие действия могут привести к великим результатам. Поэтому в этом видео мы рассмотрим 5 простых привычек, которые могут полностью изменить вашу жизнь к лучшему всего за несколько минут в день.\n\n0:42 Делайте то, что пугает вас в социальной сфере\n1:27 Определяйте свой идеал, прежде чем перейти к реальности\n2:26 Медитация\n3:15 Перестаньте использовать даже самую мелкую ложь\n4:08 Перестаньте слушать музыку, которая заставляет вас чувствовать, что вам чего-то не хватает\n\nНадеюсь, что видео вам понравилось, и если вам есть, что\nсказать, то оставляйте комментарии внизу!\n\nИнстаграм Чарли: @CharlieHoupert\n\nНаши другие YouTube каналы: http://frontways.ru/youtube.html \nНаш сайт: http://frontways.ru \nМы Вконтакте: https://vk.com/frontways\nКанал автора: https://www.youtube.com/user/charismaoncommand \nОригинал видео: https://www.youtube.com/watch?v=OUZwJ0P63yA"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "346817",
+        "likeCount": "21549",
+        "dislikeCount": "464",
+        "favoriteCount": "0",
+        "commentCount": "435"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/mAjRLQmzD0XeLpWMEmdA_jRYaD8\"",
+      "id": "Ra88PiSYcys",
+      "snippet": {
+        "publishedAt": "2016-12-01T19:07:32.000Z",
+        "channelId": "UCS5VpC1BQXWZSGnGnBFti8w",
+        "title": "Элизиум - Не верю ✝✡☪ official video",
+        "description": "Элизиум VS Ляпис Трубецкой\nНЕ ВЕРЮ \nРежиссёр Владимир Родионов У-Студия \nОт Моисея и до фарисеев \nЗерна неправды по миру посеяв \nСтарые басни, по новому кругу \nВновь оживляют надежду на чудо \nГлавные роли давно уже проданы \nПод соусом модным, кушанья поданы \nПророк Мухаммед, в обнимку с Иисусом \nСказки для бедных с иcпорченным вкусом \n\nЯ больше не верю \nНи человеку, ни зверю \nЯ больше не буду \nВерить в фальшивое чудо\n\nОт Моисея и до фарисеев \nХодит по миру эта идея \nЕдиный Творец разводит ладони \nНад картой решает, кто жизни достоин \nРазные боги с различными судьбами \nВремя по ветру полощется кудрями \nКак удержаться от вывода ложного, -\nВедь хочется нам всегда невозможного!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ra88PiSYcys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ra88PiSYcys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ra88PiSYcys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ra88PiSYcys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ra88PiSYcys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Elysium Band",
+        "tags": [
+          "Элизиум",
+          "ElysiumBand",
+          "ЛяписТрубецкой"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Элизиум - Не верю ✝✡☪ official video",
+          "description": "Элизиум VS Ляпис Трубецкой\nНЕ ВЕРЮ \nРежиссёр Владимир Родионов У-Студия \nОт Моисея и до фарисеев \nЗерна неправды по миру посеяв \nСтарые басни, по новому кругу \nВновь оживляют надежду на чудо \nГлавные роли давно уже проданы \nПод соусом модным, кушанья поданы \nПророк Мухаммед, в обнимку с Иисусом \nСказки для бедных с иcпорченным вкусом \n\nЯ больше не верю \nНи человеку, ни зверю \nЯ больше не буду \nВерить в фальшивое чудо\n\nОт Моисея и до фарисеев \nХодит по миру эта идея \nЕдиный Творец разводит ладони \nНад картой решает, кто жизни достоин \nРазные боги с различными судьбами \nВремя по ветру полощется кудрями \nКак удержаться от вывода ложного, -\nВедь хочется нам всегда невозможного!"
+        }
+      },
+      "statistics": {
+        "viewCount": "275328",
+        "likeCount": "3059",
+        "dislikeCount": "148",
+        "favoriteCount": "0",
+        "commentCount": "261"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/1JZtq1RyakwYnQ22_dvCqIgI2rQ\"",
+      "id": "NbVuM2GH7fY",
+      "snippet": {
+        "publishedAt": "2018-07-27T20:20:33.000Z",
+        "channelId": "UC8M5YVWQan_3Elm-URehz9w",
+        "title": "ВИЧ/СПИД = ЗАГОВОР?",
+        "description": "Сегодня вас ждет достаточно серьезная тема, о которой нужно поговорить.При поддержке ученых я попытался разобраться в том, о чем ходит столько споров. Заговоры, конспирология, медицина, здоровье, правительство и многое другое связывает эту тему воедино. \n\nСъемки проходили в шикарном квесте:\nПерформанс \"Диагноз\" от Dread Room\nhttps://goo.gl/M8RrZc\n\nДля вас мы приготовили подарочек! \nПо этой ссылке вы получите 1300 квесто-рублей на покупку игры на сайте \"Мир Квестов\" : http://mir-kvestov.ru/invites/58fb36\nУдачной игры!\n\nВ выпуске участвовали:  \n\nМаксим Казанровский\nhttps://vk.com/id342535191\nhttps://biomolecula.ru/authors/7278 \n\nАлександр Панчин\nhttps://vk.com/scinquisitor\nhttps://scinquisitor.livejournal.com/ - блог в ЖЖ\nhttps://www.youtube.com/watch?v=namjKi_X_ds - канал с лекциями\n\n\nГруппа ВК https://vk.com/utopia_show \nПоддержи наш проект:\nhttps://vk.com/app5727453_-96007970\nВК https://vk.com/topatella\nИнстаграм https://www.instagram.com/topatella\n\nМатериалы:\n\nСофья и ее дети\nhttps://22century.ru/medicine-and-health/65570\nhttps://vk.com/wall-69659144_134330\n\nВадим Покровский о ВИЧ:\nhttps://www.vesti.ru/doc.html?id=2753480\n\nСтатистика ВОЗ:\nhttp://www.who.int/ru/news-room/fact-sheets/detail/hiv-aids\n\nВероятность передачи:\nhttp://www.catie.ca/sites/default/files/HIV-TRANSMISSION-RISK-EN.pdf\n\nПроисхождение ВИЧ и СПИДа:\n\nhttps://www.avert.org/professionals/history-hiv-aids/origin\nhttps://www.ncbi.nlm.nih.gov/pubmed/22229120\nhttp://rstb.royalsocietypublishing.org/content/356/1410/911\nhttps://www.avert.org/professionals/history-hiv-aids/overview\nhttps://22century.ru/popular-science-publications/anna-j-jasinska\n\nСтатистика ВИЧ:\nhttps://spid-vich-zppp.ru/statistika/ofitsialnaya-statistika-vich-spid-rf-2016.html\n\nЗаконопроект:\nhttp://tass.ru/obschestvo/5130326\n\nПередача ВИЧ вне тела:\nhttps://web.archive.org/web/20100304201649/http://cdc.gov/hiv/resources/qa/qa37.htm\n\nПепси:\nhttps://www.snopes.com/fact-check/pepsifrooti-contaminated-with-hiv/\n\nМодифицированный ВИЧ:\nhttps://www.express.co.uk/news/world/824000/cancer-CURE-leukaemia-Shares-Oxford-biomedica-HIV-virus-children\nhttps://www.parkerici.org/2017/08/30/leukemia-cancer-free-how-car-t-immunotherapy-saved-emily-whitehead/\nhttps://scienceblog.cancerresearchuk.org/2013/06/25/no-doctors-did-not-inject-hiv-into-a-dying-girl-to-treat-her-cancer/\nhttps://www.chop.edu/stories/relapsed-leukemia-emilys-story\nhttps://ria.ru/science/20130711/949145444.html\nhttps://www.medicaldaily.com/revolutionary-treatment-uses-hiv-reprogram-cells-fighting-cancer-243850#MclXjJ764foqo7PT.99\n\nУмер после суда:\nhttps://bangordailynews.com/2011/07/05/news/hivaids-30-years-later-increase-in-cases-drop-in-funding-raises-concerns/\n\nВИЧ-диссиденты:\nhttps://gizmodo.com/the-deadly-legacy-of-hiv-truthers-1737928027\nhttps://www.kp.ru/daily/26707.4/3731827/\n\nКристин Маджоре:\nhttps://sciencebasedmedicine.org/christine-maggiore-and-eliza-jane-scovill-living-and-dying-with-hivaids-denialism/\n\nВИЧ-отрицатели, которые погибли:\nhttp://www.u-hiv.ru/hiv_alter_hiv-dissidents-who-have-died-fro.htm\nhttps://web.archive.org/web/20100126000256/http://www.aidstruth.org/denialism/dead_denialists\nhttps://vk.com/topic-69659144_32276876\n\nВИЧ вызывает СПИД:\nhttps://aidsinfo.nih.gov/news/528/the-evidence-that-hiv-causes-aids\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3015095/\nhttp://www.physics.smu.edu/scalise/P3333fa11/AIDS/Responding_to_HIV_Denialists_En_Red.pdf\nhttps://www.researchgate.net/publication/14704887_How_does_HIV_cause_AIDS\n\nДюсберг:\nhttp://discovermagazine.com/2008/jun/15-aids-dissident-seeks-redemption-and-a-cure-for-cancer\n\nДурбанская декларация:\nhttps://www.nature.com/articles/35017662\nТабо Мбеки:\nhttps://cdn2.sph.harvard.edu/wp-content/uploads/sites/47/2015/06/Lost_Benefits.pdf\n\nАртур Эш:\nhttps://www.nytimes.com/1993/02/08/obituaries/arthur-ashe-tennis-star-is-dead-at-49.html?ref=arthurashe\n\nОльга Ковех:\nhttps://vk.com/wall-69659144_46012\n\n\nProduction Music courtesy of Epidemic Sound!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NbVuM2GH7fY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NbVuM2GH7fY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NbVuM2GH7fY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NbVuM2GH7fY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NbVuM2GH7fY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Utopia Show",
+        "tags": [
+          "Вич спид",
+          "вич заговор",
+          "заговор врачей",
+          "спид в россии",
+          "симптомы вич",
+          "вич диссидент",
+          "вич диссидент погиб",
+          "вич не существует",
+          "существует ли вич",
+          "научное доказательство",
+          "утопия шоу",
+          "топ сикрет",
+          "заговор правительства"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "ВИЧ/СПИД = ЗАГОВОР?",
+          "description": "Сегодня вас ждет достаточно серьезная тема, о которой нужно поговорить.При поддержке ученых я попытался разобраться в том, о чем ходит столько споров. Заговоры, конспирология, медицина, здоровье, правительство и многое другое связывает эту тему воедино. \n\nСъемки проходили в шикарном квесте:\nПерформанс \"Диагноз\" от Dread Room\nhttps://goo.gl/M8RrZc\n\nДля вас мы приготовили подарочек! \nПо этой ссылке вы получите 1300 квесто-рублей на покупку игры на сайте \"Мир Квестов\" : http://mir-kvestov.ru/invites/58fb36\nУдачной игры!\n\nВ выпуске участвовали:  \n\nМаксим Казанровский\nhttps://vk.com/id342535191\nhttps://biomolecula.ru/authors/7278 \n\nАлександр Панчин\nhttps://vk.com/scinquisitor\nhttps://scinquisitor.livejournal.com/ - блог в ЖЖ\nhttps://www.youtube.com/watch?v=namjKi_X_ds - канал с лекциями\n\n\nГруппа ВК https://vk.com/utopia_show \nПоддержи наш проект:\nhttps://vk.com/app5727453_-96007970\nВК https://vk.com/topatella\nИнстаграм https://www.instagram.com/topatella\n\nМатериалы:\n\nСофья и ее дети\nhttps://22century.ru/medicine-and-health/65570\nhttps://vk.com/wall-69659144_134330\n\nВадим Покровский о ВИЧ:\nhttps://www.vesti.ru/doc.html?id=2753480\n\nСтатистика ВОЗ:\nhttp://www.who.int/ru/news-room/fact-sheets/detail/hiv-aids\n\nВероятность передачи:\nhttp://www.catie.ca/sites/default/files/HIV-TRANSMISSION-RISK-EN.pdf\n\nПроисхождение ВИЧ и СПИДа:\n\nhttps://www.avert.org/professionals/history-hiv-aids/origin\nhttps://www.ncbi.nlm.nih.gov/pubmed/22229120\nhttp://rstb.royalsocietypublishing.org/content/356/1410/911\nhttps://www.avert.org/professionals/history-hiv-aids/overview\nhttps://22century.ru/popular-science-publications/anna-j-jasinska\n\nСтатистика ВИЧ:\nhttps://spid-vich-zppp.ru/statistika/ofitsialnaya-statistika-vich-spid-rf-2016.html\n\nЗаконопроект:\nhttp://tass.ru/obschestvo/5130326\n\nПередача ВИЧ вне тела:\nhttps://web.archive.org/web/20100304201649/http://cdc.gov/hiv/resources/qa/qa37.htm\n\nПепси:\nhttps://www.snopes.com/fact-check/pepsifrooti-contaminated-with-hiv/\n\nМодифицированный ВИЧ:\nhttps://www.express.co.uk/news/world/824000/cancer-CURE-leukaemia-Shares-Oxford-biomedica-HIV-virus-children\nhttps://www.parkerici.org/2017/08/30/leukemia-cancer-free-how-car-t-immunotherapy-saved-emily-whitehead/\nhttps://scienceblog.cancerresearchuk.org/2013/06/25/no-doctors-did-not-inject-hiv-into-a-dying-girl-to-treat-her-cancer/\nhttps://www.chop.edu/stories/relapsed-leukemia-emilys-story\nhttps://ria.ru/science/20130711/949145444.html\nhttps://www.medicaldaily.com/revolutionary-treatment-uses-hiv-reprogram-cells-fighting-cancer-243850#MclXjJ764foqo7PT.99\n\nУмер после суда:\nhttps://bangordailynews.com/2011/07/05/news/hivaids-30-years-later-increase-in-cases-drop-in-funding-raises-concerns/\n\nВИЧ-диссиденты:\nhttps://gizmodo.com/the-deadly-legacy-of-hiv-truthers-1737928027\nhttps://www.kp.ru/daily/26707.4/3731827/\n\nКристин Маджоре:\nhttps://sciencebasedmedicine.org/christine-maggiore-and-eliza-jane-scovill-living-and-dying-with-hivaids-denialism/\n\nВИЧ-отрицатели, которые погибли:\nhttp://www.u-hiv.ru/hiv_alter_hiv-dissidents-who-have-died-fro.htm\nhttps://web.archive.org/web/20100126000256/http://www.aidstruth.org/denialism/dead_denialists\nhttps://vk.com/topic-69659144_32276876\n\nВИЧ вызывает СПИД:\nhttps://aidsinfo.nih.gov/news/528/the-evidence-that-hiv-causes-aids\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3015095/\nhttp://www.physics.smu.edu/scalise/P3333fa11/AIDS/Responding_to_HIV_Denialists_En_Red.pdf\nhttps://www.researchgate.net/publication/14704887_How_does_HIV_cause_AIDS\n\nДюсберг:\nhttp://discovermagazine.com/2008/jun/15-aids-dissident-seeks-redemption-and-a-cure-for-cancer\n\nДурбанская декларация:\nhttps://www.nature.com/articles/35017662\nТабо Мбеки:\nhttps://cdn2.sph.harvard.edu/wp-content/uploads/sites/47/2015/06/Lost_Benefits.pdf\n\nАртур Эш:\nhttps://www.nytimes.com/1993/02/08/obituaries/arthur-ashe-tennis-star-is-dead-at-49.html?ref=arthurashe\n\nОльга Ковех:\nhttps://vk.com/wall-69659144_46012\n\n\nProduction Music courtesy of Epidemic Sound!"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "2653793",
+        "likeCount": "258575",
+        "dislikeCount": "2885",
+        "favoriteCount": "0",
+        "commentCount": "22969"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/bBff90xnmq5pR3vmFJsw_GgNNhg\"",
+      "id": "yZdSrZ25j6A",
+      "snippet": {
+        "publishedAt": "2018-07-31T18:16:35.000Z",
+        "channelId": "UC2Ru64PHqW4FxoP0xhQRvJg",
+        "title": "ТАЙНЫЙ СМЫСЛ СИММЕТРИИ — ТОПЛЕС",
+        "description": "Очень удобный Маркетплейс БЕРУ - https://clck.ru/DxVHk\n\nКачай приложение БЕРУ - https://clck.ru/Dx5oc\n\nИспользуй уникальный промокод TOPLES на скидку 600 руб при заказе от 3000 руб в приложении Беру до 7 августа включительно.\n\nСердце слева, печень справа, желудок слева… снаружи мы симметричны, а вот внутри — не очень! Что такое симметрия на самом деле? Как одни и те же законы рисуют полоски на шкурах животных, управляют свертыванием крови и формируют разные половины нашего тела? Каким образом это связано с космосом и как Вселенная поделилась на \"право\" и \"лево\"? Об этом и не только - в нашем выпуске!\n\nОТДЫХАЕМ ОТ НАУКИ ТУТ ► https://goo.gl/LFf4Dj\n\nЯ В VK ► https://vk.com/yanlapotkov\nINSTAGRAM ► https://www.instagram.com/yan_lapotkov/\nГРУППА VK ► https://vk.com/toples_show\nTWITTER ► https://twitter.com/drunish\n\n\nСмотрите больше видео:\nКОСМОС ► https://goo.gl/uCkfD3\nТЕХНОЛОГИИ ► https://goo.gl/vLdH2H\nИГРЫ ► https://goo.gl/17LhoN\nКИНО ► https://goo.gl/ZUgWGD\nVLOG ► https://goo.gl/z88cuS\nСТРАХ ► https://goo.gl/b6fu5K\nЖИВОТНЫЕ ► https://goo.gl/jn93tz\nОЧЕНЬ ИНТЕРЕСНЫЕ ► https://goo.gl/Prcrtj\n\n\nРеклама, сотрудничество: toples.show@gmail.com\n\n\nИСТОЧНИКИ: https://goo.gl/pffDq2\n\nНад выпуском Работали:\nЯн \nМихаил Мартынов\nВадим Куликов\nАндрей Савельев",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZdSrZ25j6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZdSrZ25j6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZdSrZ25j6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZdSrZ25j6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZdSrZ25j6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ТОПЛЕС",
+        "tags": [
+          "топлес",
+          "ян топлес",
+          "ян лапотков",
+          "topless",
+          "топлес шоу",
+          "я не каспар",
+          "янекаспар",
+          "симметрия",
+          "эйфельва башня",
+          "космос",
+          "энрике иглесиас",
+          "Enrique Iglesias",
+          "snaillove",
+          "jeremy snail",
+          "большой взрыв",
+          "алан тьюринг",
+          "Alan Turing",
+          "бактериофаг",
+          "фракталы",
+          "вселенная"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ТАЙНЫЙ СМЫСЛ СИММЕТРИИ — ТОПЛЕС",
+          "description": "Очень удобный Маркетплейс БЕРУ - https://clck.ru/DxVHk\n\nКачай приложение БЕРУ - https://clck.ru/Dx5oc\n\nИспользуй уникальный промокод TOPLES на скидку 600 руб при заказе от 3000 руб в приложении Беру до 7 августа включительно.\n\nСердце слева, печень справа, желудок слева… снаружи мы симметричны, а вот внутри — не очень! Что такое симметрия на самом деле? Как одни и те же законы рисуют полоски на шкурах животных, управляют свертыванием крови и формируют разные половины нашего тела? Каким образом это связано с космосом и как Вселенная поделилась на \"право\" и \"лево\"? Об этом и не только - в нашем выпуске!\n\nОТДЫХАЕМ ОТ НАУКИ ТУТ ► https://goo.gl/LFf4Dj\n\nЯ В VK ► https://vk.com/yanlapotkov\nINSTAGRAM ► https://www.instagram.com/yan_lapotkov/\nГРУППА VK ► https://vk.com/toples_show\nTWITTER ► https://twitter.com/drunish\n\n\nСмотрите больше видео:\nКОСМОС ► https://goo.gl/uCkfD3\nТЕХНОЛОГИИ ► https://goo.gl/vLdH2H\nИГРЫ ► https://goo.gl/17LhoN\nКИНО ► https://goo.gl/ZUgWGD\nVLOG ► https://goo.gl/z88cuS\nСТРАХ ► https://goo.gl/b6fu5K\nЖИВОТНЫЕ ► https://goo.gl/jn93tz\nОЧЕНЬ ИНТЕРЕСНЫЕ ► https://goo.gl/Prcrtj\n\n\nРеклама, сотрудничество: toples.show@gmail.com\n\n\nИСТОЧНИКИ: https://goo.gl/pffDq2\n\nНад выпуском Работали:\nЯн \nМихаил Мартынов\nВадим Куликов\nАндрей Савельев"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "2410841",
+        "likeCount": "309037",
+        "dislikeCount": "1936",
+        "favoriteCount": "0",
+        "commentCount": "20517"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/HC5UAYf-Ni6Ijl8o3TmN8MIIQEY\"",
+      "id": "BQRzk-K5hBU",
+      "snippet": {
+        "publishedAt": "2017-02-18T10:34:33.000Z",
+        "channelId": "UCri6Bm1ot-Lzb7eOQaqyKGQ",
+        "title": "ДіагноzZ - Весна",
+        "description": "Раді представити вам нашу нову пісню!\nПісня присвячена проблемі дітячої захворюванності на рак.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BQRzk-K5hBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BQRzk-K5hBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BQRzk-K5hBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BQRzk-K5hBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BQRzk-K5hBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ДіагноzZ/DiagnozZ",
+        "tags": [
+          "діагноzz",
+          "весна"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ДіагноzZ - Весна",
+          "description": "Раді представити вам нашу нову пісню!\nПісня присвячена проблемі дітячої захворюванності на рак."
+        }
+      },
+      "statistics": {
+        "viewCount": "211",
+        "likeCount": "17",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/TO9H7q9MR3R8QSnSOX2spgh8En8\"",
+      "id": "QFn-SC7q42U",
+      "snippet": {
+        "publishedAt": "2018-05-18T17:45:09.000Z",
+        "channelId": "UC4tlrTXCBw6NPZ9nCA3_s9w",
+        "title": "Как снимает Уэс Андерсон",
+        "description": "Пока в кино идет «Остров собак», разбираем в новом видео стиль и приемы режиссера «Отеля \"Гранд Будапешт\"», «Королевства полной луны» и «Бесподобного мистера Фокса».",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QFn-SC7q42U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QFn-SC7q42U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QFn-SC7q42U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QFn-SC7q42U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QFn-SC7q42U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "КиноПоиск",
+        "tags": [
+          "уэс андерсон",
+          "как снимает уэс андерсон",
+          "уэс андерсон остров собак",
+          "уэс андерсон семейка тененбаум"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Как снимает Уэс Андерсон",
+          "description": "Пока в кино идет «Остров собак», разбираем в новом видео стиль и приемы режиссера «Отеля \"Гранд Будапешт\"», «Королевства полной луны» и «Бесподобного мистера Фокса»."
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "256122",
+        "likeCount": "14080",
+        "dislikeCount": "51",
+        "favoriteCount": "0",
+        "commentCount": "143"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/_smTxMOKsMCpflAu33hzS02x7ro\"",
+      "id": "L5tEfDMrn6w",
+      "snippet": {
+        "publishedAt": "2018-07-22T12:02:03.000Z",
+        "channelId": "UCIpvyH9GKI54X1Ww2BDnEgg",
+        "title": "Какие законы напринимали под шумок ЧМ -2018 | Быть Или",
+        "description": "В преддверии чемпионата мира по футболу и во время его проведения наши чиновники усердно «трудились». И пока народ был прикован к экранам телевизоров, они принимали законы, не очень популярные законы.\n█Спасибо за Донат - http://www.donationalerts.ru/r/tobeor\n█PayPal - http://www.donationalerts.ru/r/tobeor\n█ Группа \"Быть Или\" - https://vk.com/tobeorgroup\n█\n█Телеграм Канал - https://t.me/ToBeOr_Official\n█\n█ Моя страничка в ВК - https://vk.com/tobeorofficial\n█ \n█ Помочь Проекту\n█BitCoin\n█ 1P3qUnk6Yqdduq2GJ3jdjy5cC9W5CFuxZT\n█Ether\n█ 0x2Fcc725Baad526B83FE3FdABF1F9bd575c6a0F12\n█\n█BTC Cash\n█ qznt2wfgagl5n424m8x45mhh2szvr38k4g7pfg6ney\n█ R477065735763\n█ U697267906779\n█Z860636438132\n█Яндекс Кошелек\n█410014908814997\nКомпенсация ЧС - https://www.vedomosti.ru/realty/articles/2018/06/21/773373-gosudarstvo-kompensirovat-poteryu-nezastrahovannogo-zhilya\nРосСтат - http://www.gks.ru/wps/wcm/connect/rosstat_main/rosstat/ru/statistics/population/level/#...\nТарифы - https://tvzvezda.ru/news/vstrane_i_mire/content/201806291109-3wo9.htm\nhttps://regnum.ru/news/2330117.html\nhttps://www.dp.ru/a/2018/02/28/Tarifi_podstegnut_infljaciju\nПошлины на права - http://www.ntv.ru/novosti/2007306/\nУказ Президента - http://publication.pravo.gov.ru/Document/View/0001201807190063 \nСоветы президента - http://kremlin.ru/structure/councils#institution-16",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L5tEfDMrn6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L5tEfDMrn6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L5tEfDMrn6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L5tEfDMrn6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L5tEfDMrn6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Быть Или",
+        "tags": [
+          "Атеизм",
+          "Быть Или",
+          "Первое слово",
+          "политика",
+          "Путин ложь",
+          "наука против религии",
+          "вранье российских СМИ",
+          "#2процента",
+          "Путин",
+          "Медведев",
+          "Он Вам Не Димон",
+          "Коррупция",
+          "Разоблачение",
+          "ЧМ 2018",
+          "Чемпионат мира по футболу",
+          "Россия чемпионат",
+          "Законы",
+          "Повышение Пенсионного возраста",
+          "Пенсионная реформа",
+          "Повышения НДС",
+          "НДС 20",
+          "Футбол",
+          "ГосДума",
+          "Быть или разоблачение",
+          "Компот",
+          "Жириновский",
+          "Депутаты приняли",
+          "Киселев",
+          "Леонтьев",
+          "Суровые годы уходят"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Какие законы напринимали под шумок ЧМ -2018 | Быть Или",
+          "description": "В преддверии чемпионата мира по футболу и во время его проведения наши чиновники усердно «трудились». И пока народ был прикован к экранам телевизоров, они принимали законы, не очень популярные законы.\n█Спасибо за Донат - http://www.donationalerts.ru/r/tobeor\n█PayPal - http://www.donationalerts.ru/r/tobeor\n█ Группа \"Быть Или\" - https://vk.com/tobeorgroup\n█\n█Телеграм Канал - https://t.me/ToBeOr_Official\n█\n█ Моя страничка в ВК - https://vk.com/tobeorofficial\n█ \n█ Помочь Проекту\n█BitCoin\n█ 1P3qUnk6Yqdduq2GJ3jdjy5cC9W5CFuxZT\n█Ether\n█ 0x2Fcc725Baad526B83FE3FdABF1F9bd575c6a0F12\n█\n█BTC Cash\n█ qznt2wfgagl5n424m8x45mhh2szvr38k4g7pfg6ney\n█ R477065735763\n█ U697267906779\n█Z860636438132\n█Яндекс Кошелек\n█410014908814997\nКомпенсация ЧС - https://www.vedomosti.ru/realty/articles/2018/06/21/773373-gosudarstvo-kompensirovat-poteryu-nezastrahovannogo-zhilya\nРосСтат - http://www.gks.ru/wps/wcm/connect/rosstat_main/rosstat/ru/statistics/population/level/#...\nТарифы - https://tvzvezda.ru/news/vstrane_i_mire/content/201806291109-3wo9.htm\nhttps://regnum.ru/news/2330117.html\nhttps://www.dp.ru/a/2018/02/28/Tarifi_podstegnut_infljaciju\nПошлины на права - http://www.ntv.ru/novosti/2007306/\nУказ Президента - http://publication.pravo.gov.ru/Document/View/0001201807190063 \nСоветы президента - http://kremlin.ru/structure/councils#institution-16"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "793211",
+        "likeCount": "109976",
+        "dislikeCount": "15496",
+        "favoriteCount": "0",
+        "commentCount": "33574"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/S2YPm9pzlAQZqB71cHmBelZuFWw\"",
+      "id": "-nFvXoxCA0s",
+      "snippet": {
+        "publishedAt": "2014-10-17T07:04:57.000Z",
+        "channelId": "UCjKRCxF6_tNT_SCsgfwMgKw",
+        "title": "Qarpa - Сашахуй (\"Файне Місто\" 2014)",
+        "description": "vk.com/fainemisto\nfacebook.com/fainemisto\nfainemisto.com.ua\n#fainemistofest #fainemisto #fainemisto2014",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-nFvXoxCA0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-nFvXoxCA0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-nFvXoxCA0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-nFvXoxCA0s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-nFvXoxCA0s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faine Misto",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Qarpa - Сашахуй (\"Файне Місто\" 2014)",
+          "description": "vk.com/fainemisto\nfacebook.com/fainemisto\nfainemisto.com.ua\n#fainemistofest #fainemisto #fainemisto2014"
+        }
+      },
+      "statistics": {
+        "viewCount": "14733",
+        "likeCount": "79",
+        "dislikeCount": "21",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/eKKaU4QRyFsyVliwl574MDcMMjo\"",
+      "id": "NhZRiOo-MqE",
+      "snippet": {
+        "publishedAt": "2018-07-12T17:36:55.000Z",
+        "channelId": "UC6cqazSR6CnVMClY0bJI0Lg",
+        "title": "[BadComedian] - Красный Воробей (RUSSIAN Pataskyshka vs. USA)",
+        "description": "#BadComedian обзор фильма Красный Воробей. Когда голливуд снимает про Россию.\nПОДДЕРЖАТЬ СОЗДАНИЕ ОБЗОРОВ - http://TheBadComedian.ru/Za_Krasnogo\n========================\nГруппа ВК - http://vk.com/badcomedian \nФан-сайт - http://badcomedian.su/\nСтраница FB - https://www.facebook.com/thebadcomedian\nТвиттер - http://twitter.com/EvgenComedian\nИнстаграм - http://instagram.com/evgenbad\nОсновной канал - http://www.youtube.com/TheBadComedian\n===========================\nОбзоры пишутся на камеру: \nSONY A7M3 \n https://www.sony.ru/electronics/interchangeable-lens-cameras/ilce-7m3-body-kit?cid=pr-eu-10345 \n\nИспользуются объективы:\nFE 12-24mm F4 G (https://www.sony.ru/electronics/obiektivy/sel1224g?cid=pr-eu-10345 )\n FE 100mm F2.8 STF GM OSS \n(https://www.sony.ru/electronics/obiektivy/sel100f28gm?cid=pr-eu-10345 6)\nи старый добрый FE 4/24-70 (https://www.sony.ru/electronics/obiektivy/sel2470z?cid=pr-eu-10345)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NhZRiOo-MqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NhZRiOo-MqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NhZRiOo-MqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NhZRiOo-MqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NhZRiOo-MqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BadComedian",
+        "tags": [
+          "BadComedian",
+          "Евген",
+          "Bad",
+          "Comedian",
+          "Фильмы",
+          "Кино",
+          "Трэш",
+          "Мнение",
+          "Юмор",
+          "Смех",
+          "Веселье",
+          "Видео",
+          "Обзор",
+          "Humor",
+          "Comedy",
+          "Funny",
+          "sketch",
+          "скетч",
+          "новинка",
+          "о",
+          "фильмах",
+          "обзор",
+          "на",
+          "треш",
+          "смешной",
+          "фильма",
+          "Кинематограф",
+          "Пародии",
+          "смешное",
+          "видео",
+          "[BadComedian]",
+          "Бэдкомидиан",
+          "Баженов",
+          "Красный Воробей",
+          "Red Sparrow",
+          "Россия",
+          "США",
+          "Дженифер Лоуренс",
+          "Блокбастер",
+          "Голливуд",
+          "Лоуренс",
+          "Бонд",
+          "Шпионы"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "[BadComedian] - Красный Воробей (RUSSIAN Pataskyshka vs. USA)",
+          "description": "#BadComedian обзор фильма Красный Воробей. Когда голливуд снимает про Россию.\nПОДДЕРЖАТЬ СОЗДАНИЕ ОБЗОРОВ - http://TheBadComedian.ru/Za_Krasnogo\n========================\nГруппа ВК - http://vk.com/badcomedian \nФан-сайт - http://badcomedian.su/\nСтраница FB - https://www.facebook.com/thebadcomedian\nТвиттер - http://twitter.com/EvgenComedian\nИнстаграм - http://instagram.com/evgenbad\nОсновной канал - http://www.youtube.com/TheBadComedian\n===========================\nОбзоры пишутся на камеру: \nSONY A7M3 \n https://www.sony.ru/electronics/interchangeable-lens-cameras/ilce-7m3-body-kit?cid=pr-eu-10345 \n\nИспользуются объективы:\nFE 12-24mm F4 G (https://www.sony.ru/electronics/obiektivy/sel1224g?cid=pr-eu-10345 )\n FE 100mm F2.8 STF GM OSS \n(https://www.sony.ru/electronics/obiektivy/sel100f28gm?cid=pr-eu-10345 6)\nи старый добрый FE 4/24-70 (https://www.sony.ru/electronics/obiektivy/sel2470z?cid=pr-eu-10345)"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "7024072",
+        "likeCount": "393787",
+        "dislikeCount": "11105",
+        "favoriteCount": "0",
+        "commentCount": "32987"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/VIDmwZ30YQHEx4XnIDKvSlRVhqY\"",
+      "id": "P1ZzIrWfPsk",
+      "snippet": {
+        "publishedAt": "2018-06-15T10:09:56.000Z",
+        "channelId": "UCYfYQ1lmPwPdxjBpW_rMJ7w",
+        "title": "Static-X - The Only (Cover by Radio Tapok)",
+        "description": "Скачать MP3: https://goo.gl/E6XvSL\nАудиозаписи в паблике ВК: https://vk.com/radiotapok\nМой instargam: https://www.instagram.com/radiotapok\n\nСоздание инструментал версий на заказ \nhttps://vk.com/space_dude\n\nНаконец то руки дошли до Статик-Икс! По различным причинам выпуск откладывался уже пару месяцев. Сам Уэйн Статик умер в 2014 году, как говорят СМИ от смешивания приличной дозы сильных лекарственных препаратов и алкоголя, но оставил нам одну из культовых песен 2000х под которую мы все рассекали в NFS Undeground. Роцкеры, пишите в комменты треки из этой игрушки, я попробую оживить еще пару легенд! Жду на осенних и зимних концертах 2018! Будет не менее 40 городов где можно угареть под все эти треки, скоро вся инфа! \n\nТекст: \n\nТу битву я выиграл, твоя агония \nВсё сильней, и стёрла, все воспоминания \nВсе эти игры, стирают фантазию \nТы так близка, к тому чтоб слиться с реальностью. \n\nТы хочешь контроля, лишая покоя \nХочешь забрать всё, Что мне дает дышать \nЭто безумство, верни мои чувства \nЕдинственное то, что я просил не отнимать \n\nВсе твои фантазии тянут меня лишь на дно \nПитая так твои чувства \nЛицемер, лунатик, фанатик, еретик, \nТы так близка к тому, чтоб слиться с реальностью! \n\nЛицемер, лунатик, фанатик, еретик, \nЛицемер, лунатик, фанатик, еретик, \nЛицемер, лунатик, фанатик, еретик, \nЛицемер, лунатик, фанатик, еретик, \n\nТы хочешь контроля, лишая покоя \nХочешь забрать всё, Что мне дает дышать \nЭто безумство, верни мои чувства \nЕдинственное то, что я просил не отнимать \n\nТы хочешь контроля, лишая покоя \nХочешь забрать всё, Что мне дает дышать \nЭто безумство, верни мои чувства \nЕдинственное то, что я просил не отнимать\n\n#staticx #кавернарусском #радиотапок #nfsunderground #waynestatic #метал",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1ZzIrWfPsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1ZzIrWfPsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1ZzIrWfPsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P1ZzIrWfPsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P1ZzIrWfPsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RADIO TAPOK",
+        "tags": [
+          "nfs",
+          "nfs underground",
+          "нид фор спид",
+          "Уэйн Статик",
+          "Wayne Static",
+          "метал",
+          "радио тапок",
+          "радио тарок"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Static-X - The Only (Cover by Radio Tapok)",
+          "description": "Скачать MP3: https://goo.gl/E6XvSL\nАудиозаписи в паблике ВК: https://vk.com/radiotapok\nМой instargam: https://www.instagram.com/radiotapok\n\nСоздание инструментал версий на заказ \nhttps://vk.com/space_dude\n\nНаконец то руки дошли до Статик-Икс! По различным причинам выпуск откладывался уже пару месяцев. Сам Уэйн Статик умер в 2014 году, как говорят СМИ от смешивания приличной дозы сильных лекарственных препаратов и алкоголя, но оставил нам одну из культовых песен 2000х под которую мы все рассекали в NFS Undeground. Роцкеры, пишите в комменты треки из этой игрушки, я попробую оживить еще пару легенд! Жду на осенних и зимних концертах 2018! Будет не менее 40 городов где можно угареть под все эти треки, скоро вся инфа! \n\nТекст: \n\nТу битву я выиграл, твоя агония \nВсё сильней, и стёрла, все воспоминания \nВсе эти игры, стирают фантазию \nТы так близка, к тому чтоб слиться с реальностью. \n\nТы хочешь контроля, лишая покоя \nХочешь забрать всё, Что мне дает дышать \nЭто безумство, верни мои чувства \nЕдинственное то, что я просил не отнимать \n\nВсе твои фантазии тянут меня лишь на дно \nПитая так твои чувства \nЛицемер, лунатик, фанатик, еретик, \nТы так близка к тому, чтоб слиться с реальностью! \n\nЛицемер, лунатик, фанатик, еретик, \nЛицемер, лунатик, фанатик, еретик, \nЛицемер, лунатик, фанатик, еретик, \nЛицемер, лунатик, фанатик, еретик, \n\nТы хочешь контроля, лишая покоя \nХочешь забрать всё, Что мне дает дышать \nЭто безумство, верни мои чувства \nЕдинственное то, что я просил не отнимать \n\nТы хочешь контроля, лишая покоя \nХочешь забрать всё, Что мне дает дышать \nЭто безумство, верни мои чувства \nЕдинственное то, что я просил не отнимать\n\n#staticx #кавернарусском #радиотапок #nfsunderground #waynestatic #метал"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "1968651",
+        "likeCount": "73704",
+        "dislikeCount": "988",
+        "favoriteCount": "0",
+        "commentCount": "4459"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/EC7s1A5cjFeZmTtOBMzyv5f13HE\"",
+      "id": "JrDnSEhrFQw",
+      "snippet": {
+        "publishedAt": "2018-05-11T18:17:55.000Z",
+        "channelId": "UCOlUfvPjNqd--I_Fx6DohMA",
+        "title": "ТАйМСКВЕР - Мой серый город feat. Utopia show / 0+ / (Official video)",
+        "description": "ТАйМСКВЕР - Мой серый город feat. Utopia show / 0+ / (Official video)\n\nОфициальный клип на трек с дебютного альбома \"Скафандр и бабочка\" - мой серый город. \n\n\n► ТАйМСКВЕР в сети:\nhttps://www.youtube.com/user/TAuMCKBEP\nhttps://www.facebook.com/TAuMCKBEP\nhttps://vk.com/timesquareband\nhttps://www.instagram.com/timesquareband\n\n► ЕР \"ЭГО\" в сети:\niTunes & Apple Music: https://vk.cc/88201X\nGoogle Play: https://vk.cc/8820dM\nSontrack: https://vk.cc/8820l0\nМузыка Билайн: https://goo.gl/YnLLjq\nDeezer: https://vk.cc/8820zd\nSpotify: https://vk.cc/88214y\nAmazon: https://vk.cc/8821aU\nЯндекс.Музыка: https://vk.cc/8a0JeM\n\n► QWEEX Production\nWEB - https://www.qweex.ru\nINST - https://www.instagram.com/qweex.campus/\nVK - https://vk.com/qweexru \nTEL - +7 499 13 063 13\nMAIL - production@qweex.ru\n\n#ТАйМСКВЕР #ГруппаТАйМСКВЕР #КириллБабиев",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JrDnSEhrFQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JrDnSEhrFQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JrDnSEhrFQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JrDnSEhrFQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JrDnSEhrFQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ТАйМСКВЕР",
+        "tags": [
+          "Кирилл Бабиев",
+          "Рок",
+          "Клип",
+          "Женя попадинец",
+          "Мой серый город",
+          "Utopia Show",
+          "top secret",
+          "тайны",
+          "utopia",
+          "утопия",
+          "топа",
+          "топ сикрет",
+          "утопия шоу",
+          "topatella",
+          "топателла",
+          "каверы",
+          "голос лучшее",
+          "голос рок песни",
+          "топ - 5 рок исполнителей",
+          "kirill babiev",
+          "кирилл бабиев amatory",
+          "rock cover",
+          "аматори cover",
+          "аматори остановить время",
+          "русская альтернатива",
+          "альтернативная музыка",
+          "группа таймсквер",
+          "таймсквер мой сервый город",
+          "ТАйМСКВЕР Official Audio",
+          "Мой севый город official video",
+          "Таймсквер"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ТАйМСКВЕР - Мой серый город feat. Utopia show / 0+ / (Official video)",
+          "description": "ТАйМСКВЕР - Мой серый город feat. Utopia show / 0+ / (Official video)\n\nОфициальный клип на трек с дебютного альбома \"Скафандр и бабочка\" - мой серый город. \n\n\n► ТАйМСКВЕР в сети:\nhttps://www.youtube.com/user/TAuMCKBEP\nhttps://www.facebook.com/TAuMCKBEP\nhttps://vk.com/timesquareband\nhttps://www.instagram.com/timesquareband\n\n► ЕР \"ЭГО\" в сети:\niTunes & Apple Music: https://vk.cc/88201X\nGoogle Play: https://vk.cc/8820dM\nSontrack: https://vk.cc/8820l0\nМузыка Билайн: https://goo.gl/YnLLjq\nDeezer: https://vk.cc/8820zd\nSpotify: https://vk.cc/88214y\nAmazon: https://vk.cc/8821aU\nЯндекс.Музыка: https://vk.cc/8a0JeM\n\n► QWEEX Production\nWEB - https://www.qweex.ru\nINST - https://www.instagram.com/qweex.campus/\nVK - https://vk.com/qweexru \nTEL - +7 499 13 063 13\nMAIL - production@qweex.ru\n\n#ТАйМСКВЕР #ГруппаТАйМСКВЕР #КириллБабиев"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "386259",
+        "likeCount": "34305",
+        "dislikeCount": "1671",
+        "favoriteCount": "0",
+        "commentCount": "2371"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/XM7Bf1gesUcPQAYU2v4jmpZwphc\"",
+      "id": "a5-O6svG2mA",
+      "snippet": {
+        "publishedAt": "2018-05-16T10:54:57.000Z",
+        "channelId": "UC30A8PetE6tUWGR6IJfCaFg",
+        "title": "Вместе с Utopia Show исполнили мечту подписчика и закопали клад!",
+        "description": "Вы, наверное, уже начали думать, что на этом канале больше ничего не будет, но, как и героев наших сюжетов, вас ждёт сюрприз - новое видео! В этом выпуске исполнена мечта Коли - встретиться с Женей, автором канала Utopia Show.\n\nНе обращайте внимания на снег, просто выпуск был снят зимой и терпеливо ждал своего выхода. Всем спасибо за ожидание новых выпусков и веру в канал!\n\nКанал Utopia Show:\nhttps://www.youtube.com/c/utopiashow\nЖенька Попадинец:\nVK: https://vk.com/topatella\nIG: https://www.instagram.com/topatella\n\nИван #ЖаданИсполняетМечты:\nVK: https://vk.cc/70ncIe\nInstagram: https://goo.gl/DVjC87\n\nГеолокация клада:\nhttps://30488.redirect.appmetrica.yandex.com/show_point_on_map?appmetrica_tracking_id=745803332332869252&lang=ru&lat=56.370439&lon=36.663371",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5-O6svG2mA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5-O6svG2mA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5-O6svG2mA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5-O6svG2mA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5-O6svG2mA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ЖАДАН",
+        "tags": [
+          "добро",
+          "мечты",
+          "жадан",
+          "utopia show",
+          "топа",
+          "утопия",
+          "утопия шоу",
+          "utopia",
+          "женька попадинец",
+          "добрые дела",
+          "dreams",
+          "клад",
+          "мистика",
+          "тайна",
+          "клин",
+          "Топа",
+          "Жадан і собаки",
+          "Женька topatella Попадинец",
+          "топ сикрет",
+          "волшебство",
+          "радость",
+          "жадан ждет",
+          "дружко шоу",
+          "дружко",
+          "хорошее настроение",
+          "доброе видео",
+          "крутой влог"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Вместе с Utopia Show исполнили мечту подписчика и закопали клад!",
+          "description": "Вы, наверное, уже начали думать, что на этом канале больше ничего не будет, но, как и героев наших сюжетов, вас ждёт сюрприз - новое видео! В этом выпуске исполнена мечта Коли - встретиться с Женей, автором канала Utopia Show.\n\nНе обращайте внимания на снег, просто выпуск был снят зимой и терпеливо ждал своего выхода. Всем спасибо за ожидание новых выпусков и веру в канал!\n\nКанал Utopia Show:\nhttps://www.youtube.com/c/utopiashow\nЖенька Попадинец:\nVK: https://vk.com/topatella\nIG: https://www.instagram.com/topatella\n\nИван #ЖаданИсполняетМечты:\nVK: https://vk.cc/70ncIe\nInstagram: https://goo.gl/DVjC87\n\nГеолокация клада:\nhttps://30488.redirect.appmetrica.yandex.com/show_point_on_map?appmetrica_tracking_id=745803332332869252&lang=ru&lat=56.370439&lon=36.663371"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "197367",
+        "likeCount": "30292",
+        "dislikeCount": "153",
+        "favoriteCount": "0",
+        "commentCount": "2039"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/qUzSLzE-m3K5h1NaSctSYsvwXvs\"",
+      "id": "MVdHddyo3dg",
+      "snippet": {
+        "publishedAt": "2018-06-15T17:11:59.000Z",
+        "channelId": "UC8M5YVWQan_3Elm-URehz9w",
+        "title": "🎙️Последние новости + видео со Старкона 🚀",
+        "description": "Поговорим о старконе, о видео, в которых я принимал участие и так далее)\n\nЗаказать карту Next от Альфа-Банка можно тут:\n\nhttps://clck.ru/DFPYg\n\nКлип Таймсквер: https://www.youtube.com/watch?v=JrDnSEhrFQw\nЖадан исполняет мечты: https://www.youtube.com/watch?v=a5-O6svG2mA\n\nКосплей-видео: https://www.youtube.com/watch?v=nav7U7l75Cs&feature=youtu.be",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MVdHddyo3dg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MVdHddyo3dg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MVdHddyo3dg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MVdHddyo3dg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MVdHddyo3dg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Utopia Show",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "🎙️Последние новости + видео со Старкона 🚀",
+          "description": "Поговорим о старконе, о видео, в которых я принимал участие и так далее)\n\nЗаказать карту Next от Альфа-Банка можно тут:\n\nhttps://clck.ru/DFPYg\n\nКлип Таймсквер: https://www.youtube.com/watch?v=JrDnSEhrFQw\nЖадан исполняет мечты: https://www.youtube.com/watch?v=a5-O6svG2mA\n\nКосплей-видео: https://www.youtube.com/watch?v=nav7U7l75Cs&feature=youtu.be"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "627764",
+        "likeCount": "66191",
+        "dislikeCount": "4447",
+        "favoriteCount": "0",
+        "commentCount": "7267"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/Z997p5nNC7gGrCE2-WutENoXW98\"",
+      "id": "Zzk0PVzoli4",
+      "snippet": {
+        "publishedAt": "2018-04-12T07:43:26.000Z",
+        "channelId": "UC7ye2tIzkgQnxoXhjcaHjBw",
+        "title": "Акция: «ПОСИГНАЛЬ, ЕСЛИ ПРОТИВ ПУТИНА»",
+        "description": "ОТНОШЕНИЕ К ПУТИНУ, СПУСТЯ ГОД, ПОСЛЕ ВЫБОРОВ! (ОПРОС РОССИЯН)\nhttps://www.youtube.com/watch?v=7UCIdheu_j0\n\n\nАкция: «ДАЙ ПЯТЬ, ЕСЛИ ПРОТИВ ПУТИНА»\nhttps://www.youtube.com/watch?v=mp81t7s82NA\n\nМы вышли на улицы Перми, чтобы узнать, сколько же автомобилистов выступают против Путина. На удивление, сигналил каждый шестой, кто-то просто махал рукой, а кто-то был крайне не рад тому, что мы вышли в пикет.\n\nПомочь проекту можно пожертвованием на Карту Сбербанк:\n2202 2007 2035 1632\n\nВК - https://vk.com/s602531",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zzk0PVzoli4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zzk0PVzoli4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zzk0PVzoli4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zzk0PVzoli4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Гроза Перми",
+        "tags": [
+          "Путин",
+          "Навальный",
+          "Навальный в Перми",
+          "Против Путина",
+          "Акция",
+          "Пикет",
+          "Акция против Путина",
+          "Политика",
+          "Посигналь",
+          "Пермь",
+          "Акция в Перми",
+          "Оппозиция",
+          "Автомобилисты против Путина",
+          "Окунев",
+          "Решетников"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Акция: «ПОСИГНАЛЬ, ЕСЛИ ПРОТИВ ПУТИНА»",
+          "description": "ОТНОШЕНИЕ К ПУТИНУ, СПУСТЯ ГОД, ПОСЛЕ ВЫБОРОВ! (ОПРОС РОССИЯН)\nhttps://www.youtube.com/watch?v=7UCIdheu_j0\n\n\nАкция: «ДАЙ ПЯТЬ, ЕСЛИ ПРОТИВ ПУТИНА»\nhttps://www.youtube.com/watch?v=mp81t7s82NA\n\nМы вышли на улицы Перми, чтобы узнать, сколько же автомобилистов выступают против Путина. На удивление, сигналил каждый шестой, кто-то просто махал рукой, а кто-то был крайне не рад тому, что мы вышли в пикет.\n\nПомочь проекту можно пожертвованием на Карту Сбербанк:\n2202 2007 2035 1632\n\nВК - https://vk.com/s602531"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "4168842",
+        "likeCount": "217137",
+        "dislikeCount": "21487",
+        "favoriteCount": "0",
+        "commentCount": "45337"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/z3qGCyezIyMFH-EayhNA9J7yA50\"",
+      "id": "hwiV82kXgiw",
+      "snippet": {
+        "publishedAt": "2018-06-10T10:18:22.000Z",
+        "channelId": "UCIpvyH9GKI54X1Ww2BDnEgg",
+        "title": "Снижаем Цены На Бензин! Эксперимент #НетМонополии | Быть Или",
+        "description": "Канал телеграмм - https://t.me/ToBeOr_Official\nМатериал создан в целях защиты прав человека. В ролике освещается тема, которая неоднократно затрагивалась журналистским сообществом, а также поднималась лично президентом РФ Владимиром Путиным ( https://goo.gl/My2KKo ) Автор не преследует цель кого-либо оскорбить или обвинить. Материал, демонстрируемый в видео, взят из общедоступных источников.\n█Спасибо за Донат - http://www.donationalerts.ru/r/tobeor\n█PayPal - http://www.donationalerts.ru/r/tobeor\n█ Группа \"Быть Или\" - https://vk.com/tobeorgroup\n█\n█ Моя страничка в ВК - https://vk.com/tobeorofficial\n█ \n█ Помочь Проекту\n█BitCoin\n█  1K5dtVRhEfFJxukC7FCuDNuBP5LGX5D4zM\n█Ether\n█  0x2Fcc725Baad526B83FE3FdABF1F9bd575c6a0F12\n█\n█BTC Cash\n█ qr2nyrk4w05pm3ext2jywk6y764c7p042v63n007mh\n█ R477065735763\n█ U697267906779\n█Z860636438132\n█Яндекс Кошелек\n█410014908814997",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hwiV82kXgiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hwiV82kXgiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hwiV82kXgiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hwiV82kXgiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hwiV82kXgiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Быть Или",
+        "tags": [
+          "Атеизм",
+          "Быть Или",
+          "Первое слово",
+          "Путин ложь",
+          "#2процента",
+          "Путин",
+          "Медведев",
+          "Повышение цен на бензин",
+          "Бензин",
+          "Сечин",
+          "Миллер",
+          "Кортель",
+          "Монополия",
+          "#НетМонополии",
+          "РосНефть",
+          "Лукойл",
+          "ГазПромНефть",
+          "Протест",
+          "Кто под маской",
+          "Забастовка",
+          "Бензин цена",
+          "Против повышения",
+          "Прямая линия",
+          "Сговор",
+          "Нефтедобыча",
+          "АЗС",
+          "Эксперимент",
+          "Топливо",
+          "Цены ростут"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Снижаем Цены На Бензин! Эксперимент #НетМонополии | Быть Или",
+          "description": "Канал телеграмм - https://t.me/ToBeOr_Official\nМатериал создан в целях защиты прав человека. В ролике освещается тема, которая неоднократно затрагивалась журналистским сообществом, а также поднималась лично президентом РФ Владимиром Путиным ( https://goo.gl/My2KKo ) Автор не преследует цель кого-либо оскорбить или обвинить. Материал, демонстрируемый в видео, взят из общедоступных источников.\n█Спасибо за Донат - http://www.donationalerts.ru/r/tobeor\n█PayPal - http://www.donationalerts.ru/r/tobeor\n█ Группа \"Быть Или\" - https://vk.com/tobeorgroup\n█\n█ Моя страничка в ВК - https://vk.com/tobeorofficial\n█ \n█ Помочь Проекту\n█BitCoin\n█  1K5dtVRhEfFJxukC7FCuDNuBP5LGX5D4zM\n█Ether\n█  0x2Fcc725Baad526B83FE3FdABF1F9bd575c6a0F12\n█\n█BTC Cash\n█ qr2nyrk4w05pm3ext2jywk6y764c7p042v63n007mh\n█ R477065735763\n█ U697267906779\n█Z860636438132\n█Яндекс Кошелек\n█410014908814997"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "975405",
+        "likeCount": "138823",
+        "dislikeCount": "3137",
+        "favoriteCount": "0",
+        "commentCount": "40058"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/r9OT4qeuamOB2RFMbx5bsdohoCs\"",
+      "id": "bk11EZC8its",
+      "snippet": {
+        "publishedAt": "2018-06-03T08:45:27.000Z",
+        "channelId": "UC2Ru64PHqW4FxoP0xhQRvJg",
+        "title": "МОГУТ ЛИ СУТКИ БЫТЬ БЕСКОНЕЧНЫМИ? — ТОПЛЕС",
+        "description": "Новые кроссовки или все что угодно по карте рассрочки ►► https://hcrd.ru/XptiZI.\n\nБилеты на Видеожара2018 в Киеве ►►https://videozhara.com/tickets/toples\n\nВидео Антона на \"Море Ясности\" ►► https://www.youtube.com/watch?v=N6m4uVa9-jk \n\nНовое видео на Я не Каспар \"Сняли Клип в Отеле\" ►► https://www.youtube.com/watch?v=bSxOFOy_xvo\n\nВ этом выпуске мы расскажем, что день не всегда длится 24 часа, объясним разницу между звездными и солнечными сутками и определим их длину. Расскажем что происходит с сутками на планетах где разные части этих планет живут по своим собственным законам, а на их поверхностях образуются загадочные шестиугольники. Это не Вселенная Стивена Хокинга, но не менее захватывающее путешествие в мир времени и космоса. \n\nОТДЫХАЕМ ОТ НАУКИ ТУТ ►► https://goo.gl/LFf4Dj\n\nЯ В VK ► https://vk.com/yanlapotkov\nINSTAGRAM ► https://www.instagram.com/yan_lapotkov/\nГРУППА VK ► https://vk.com/toples_show\nTWITTER ► https://twitter.com/drunish\n\nСмотрите больше видео:\nКОСМОС ► https://goo.gl/uCkfD3\nТЕХНОЛОГИИ ► https://goo.gl/vLdH2H\nИГРЫ ► https://goo.gl/17LhoN\nКИНО ► https://goo.gl/ZUgWGD\nVLOG ► https://goo.gl/z88cuS\nСТРАХ ► https://goo.gl/b6fu5K\nЖИВОТНЫЕ ► https://goo.gl/jn93tz\nОЧЕНЬ ИНТЕРЕСНЫЕ ► https://goo.gl/Prcrtj\n\nРеклама, сотрудничество: toples.show@gmail.com\n\nНад видео работали:\nЯн Лапотков\nАнтон Громов\nВадим Куликов\nАндрей Савельев\n\nЭмитентом Карты рассрочки является ООО «ХКФ Банк», Ген. лицензия ЦБ РФ № 316». Рекламная информация, размещенная в видео, актуальна на дату выхода выпуска/поста\n\n\nИСТОЧНИКИ:\nhttps://docs.google.com/document/d/1cj9L7xw1oGDCGUYH__wqQ0MvxLpaw9JiEWPsaktHilQ/edit?usp=sharing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bk11EZC8its/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bk11EZC8its/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bk11EZC8its/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bk11EZC8its/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bk11EZC8its/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ТОПЛЕС",
+        "tags": [
+          "топлес",
+          "ян топлес",
+          "ян лапотков",
+          "caramba",
+          "topless",
+          "carambatv",
+          "karamba",
+          "topless caramba",
+          "топлес карамба",
+          "ян топлес и любарская",
+          "топлес шоу",
+          "я не каспар",
+          "янекаспар"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "МОГУТ ЛИ СУТКИ БЫТЬ БЕСКОНЕЧНЫМИ? — ТОПЛЕС",
+          "description": "Новые кроссовки или все что угодно по карте рассрочки ►► https://hcrd.ru/XptiZI.\n\nБилеты на Видеожара2018 в Киеве ►►https://videozhara.com/tickets/toples\n\nВидео Антона на \"Море Ясности\" ►► https://www.youtube.com/watch?v=N6m4uVa9-jk \n\nНовое видео на Я не Каспар \"Сняли Клип в Отеле\" ►► https://www.youtube.com/watch?v=bSxOFOy_xvo\n\nВ этом выпуске мы расскажем, что день не всегда длится 24 часа, объясним разницу между звездными и солнечными сутками и определим их длину. Расскажем что происходит с сутками на планетах где разные части этих планет живут по своим собственным законам, а на их поверхностях образуются загадочные шестиугольники. Это не Вселенная Стивена Хокинга, но не менее захватывающее путешествие в мир времени и космоса. \n\nОТДЫХАЕМ ОТ НАУКИ ТУТ ►► https://goo.gl/LFf4Dj\n\nЯ В VK ► https://vk.com/yanlapotkov\nINSTAGRAM ► https://www.instagram.com/yan_lapotkov/\nГРУППА VK ► https://vk.com/toples_show\nTWITTER ► https://twitter.com/drunish\n\nСмотрите больше видео:\nКОСМОС ► https://goo.gl/uCkfD3\nТЕХНОЛОГИИ ► https://goo.gl/vLdH2H\nИГРЫ ► https://goo.gl/17LhoN\nКИНО ► https://goo.gl/ZUgWGD\nVLOG ► https://goo.gl/z88cuS\nСТРАХ ► https://goo.gl/b6fu5K\nЖИВОТНЫЕ ► https://goo.gl/jn93tz\nОЧЕНЬ ИНТЕРЕСНЫЕ ► https://goo.gl/Prcrtj\n\nРеклама, сотрудничество: toples.show@gmail.com\n\nНад видео работали:\nЯн Лапотков\nАнтон Громов\nВадим Куликов\nАндрей Савельев\n\nЭмитентом Карты рассрочки является ООО «ХКФ Банк», Ген. лицензия ЦБ РФ № 316». Рекламная информация, размещенная в видео, актуальна на дату выхода выпуска/поста\n\n\nИСТОЧНИКИ:\nhttps://docs.google.com/document/d/1cj9L7xw1oGDCGUYH__wqQ0MvxLpaw9JiEWPsaktHilQ/edit?usp=sharing"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "1663756",
+        "likeCount": "104150",
+        "dislikeCount": "2022",
+        "favoriteCount": "0",
+        "commentCount": "4745"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/evn5NigYwuB3wJmlpseawHWHSTE\"",
+      "id": "ENtyeLY3vIU",
+      "snippet": {
+        "publishedAt": "2018-06-05T20:26:36.000Z",
+        "channelId": "UC8M5YVWQan_3Elm-URehz9w",
+        "title": "Мифы, в которые мы верим #2",
+        "description": "Сегодня ты узнаешь, добрые ли дельфины, открывал ли Колумб Америку и выглядят ли викинги так, как мы думаем?\n\nSkillbox бесплатные мастер-классы!\nhttps://goo.gl/QefA1X\n\nГруппа ВК https://vk.com/utopia_show \nПоддержи наш проект:\nhttps://vk.com/app5727453_-96007970\nВК https://vk.com/topatella\nИнстаграм https://www.instagram.com/topatella\n\nМатериалы:\n\nПодборка фактов о дельфинах со ссылками:\nhttp://www.bbc.com/earth/story/20160204-cute-and-cuddly-dolphins-are-secretly-murderers\n\nНападение на новорожденного:\nhttps://onlinelibrary.wiley.com/doi/epdf/10.1111/mms.12248?referrer_access_token=nt6QyAqSIt9yypEyG82xgIta6bR2k8jH0KrdpFOxC65kK5SJAHIBatQDDJ95S9OctkaFO0J7K7Rxlgyo7TJEoQyH-WnhVofv1Dw9lgDjKogmdI5Kv6C8vZOiuphnPZDS\n\nhttp://www.bbc.com/earth/story/20150716-dolphins-that-kill-their-young\n\n\nМиф о насилии:\nhttp://justingregg.com/the-dolphin-rape-myth/\n\nПринуждение или насилие:\nhttps://www.telegraph.co.uk/news/earth/wildlife/9172937/Dolphins-resort-to-rape.html\n\nУбийство морской свиньи:\nhttp://www.bbc.com/news/uk-england-devon-37616961\n\nНападения на людей:\nhttp://www.bbc.co.uk/insideout/south/series1/lone-dolphins.shtml\nhttp://www.bbc.com/news/world-europe-28731126\nhttps://www.theguardian.com/lifeandstyle/2014/oct/17/experience-i-was-attacked-by-a-dolphin\n\n\nТравмы у маленьких дельфинов\nhttp://www.jwildlifedis.org/doi/10.7589/0090-3558-38.3.505\n\nСамцы преследуют самок\nhttp://www.pnas.org/content/pnas/89/3/987.full.pdf\nДетоубийство\nhttp://www.jstor.org/stable/50968?seq=1#page_scan_tab_contents\n\nАгрессия дельфинов\nhttps://www.telegraph.co.uk/news/earth/earthnews/3323070/Killer-dolphins-baffle-marine-experts.html\n\nМертвые морские свиньи:\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC1689180/pdf/9699310.pdf\n\nВикинги:\n\nhttp://www.nat-geo.ru/science/154028-vikingi-ne-nosili-rogatykh-shlemov/\nhttp://listverse.com/2009/04/21/top-10-misconceptions-about-the-vikings/\nhttp://www.straightdope.com/columns/read/2189/did-vikings-really-wear-horns-on-their-helmets/\nhttps://www.historyonthenet.com/viking-myths-and-misconceptions/\nhttp://norse-mythology.net/myths-and-misconceptions-about-the-vikings/\nhttp://www.bbc.com/news/magazine-26431858\nhttp://www.worldtreeproject.org/exhibits/show/miscon/dirtyvikes\nhttps://www.history.com/news/did-vikings-really-wear-horned-helmets\n\n\nКолумб:\n\nНе открывал Америку:\nhttps://www.washingtonpost.com/news/answer-sheet/wp/2013/10/14/christopher-columbus-3-things-you-think-he-did-that-he-didnt/?utm_term=.46a0bee6eac1\n\nМифы о Колумбе:\nhttps://www.livescience.com/16468-christopher-columbus-myths-flat-earth-discovered-americas.html\n\nБиография:\nhttps://www.history.com/topics/exploration/christopher-columbus\n\nХронология экспедиций\nhttps://ria.ru/spravka/20120803/714919616.html\n\nАмериго\nhttps://www.history.com/topics/exploration/amerigo-vespucci\nhttps://amerigoves.weebly.com/travel-routes.html\n\nЛейф\nhttp://www.leiferikson.org/Shilshole.htm\n\nЭрик Рыжий\nhttp://exploration.marinersmuseum.org/subject/erik-the-red/\n\n\n\n\nProduction Music courtesy of Epidemic Sound!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENtyeLY3vIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENtyeLY3vIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENtyeLY3vIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ENtyeLY3vIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ENtyeLY3vIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Utopia Show",
+        "tags": [
+          "Мифы в которые мы верим",
+          "колумб открыл америку",
+          "дельфины убийцы",
+          "дельфины атакуют людей",
+          "дельфины",
+          "колумб не открывал америку",
+          "христофор колумб",
+          "викинги шлемы",
+          "шлем викингов",
+          "викинги не носили шлемы с рогоами",
+          "шлемы с рогами",
+          "утопия",
+          "утопия шоу",
+          "топа",
+          "топ сикрет"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Мифы, в которые мы верим #2",
+          "description": "Сегодня ты узнаешь, добрые ли дельфины, открывал ли Колумб Америку и выглядят ли викинги так, как мы думаем?\n\nSkillbox бесплатные мастер-классы!\nhttps://goo.gl/QefA1X\n\nГруппа ВК https://vk.com/utopia_show \nПоддержи наш проект:\nhttps://vk.com/app5727453_-96007970\nВК https://vk.com/topatella\nИнстаграм https://www.instagram.com/topatella\n\nМатериалы:\n\nПодборка фактов о дельфинах со ссылками:\nhttp://www.bbc.com/earth/story/20160204-cute-and-cuddly-dolphins-are-secretly-murderers\n\nНападение на новорожденного:\nhttps://onlinelibrary.wiley.com/doi/epdf/10.1111/mms.12248?referrer_access_token=nt6QyAqSIt9yypEyG82xgIta6bR2k8jH0KrdpFOxC65kK5SJAHIBatQDDJ95S9OctkaFO0J7K7Rxlgyo7TJEoQyH-WnhVofv1Dw9lgDjKogmdI5Kv6C8vZOiuphnPZDS\n\nhttp://www.bbc.com/earth/story/20150716-dolphins-that-kill-their-young\n\n\nМиф о насилии:\nhttp://justingregg.com/the-dolphin-rape-myth/\n\nПринуждение или насилие:\nhttps://www.telegraph.co.uk/news/earth/wildlife/9172937/Dolphins-resort-to-rape.html\n\nУбийство морской свиньи:\nhttp://www.bbc.com/news/uk-england-devon-37616961\n\nНападения на людей:\nhttp://www.bbc.co.uk/insideout/south/series1/lone-dolphins.shtml\nhttp://www.bbc.com/news/world-europe-28731126\nhttps://www.theguardian.com/lifeandstyle/2014/oct/17/experience-i-was-attacked-by-a-dolphin\n\n\nТравмы у маленьких дельфинов\nhttp://www.jwildlifedis.org/doi/10.7589/0090-3558-38.3.505\n\nСамцы преследуют самок\nhttp://www.pnas.org/content/pnas/89/3/987.full.pdf\nДетоубийство\nhttp://www.jstor.org/stable/50968?seq=1#page_scan_tab_contents\n\nАгрессия дельфинов\nhttps://www.telegraph.co.uk/news/earth/earthnews/3323070/Killer-dolphins-baffle-marine-experts.html\n\nМертвые морские свиньи:\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC1689180/pdf/9699310.pdf\n\nВикинги:\n\nhttp://www.nat-geo.ru/science/154028-vikingi-ne-nosili-rogatykh-shlemov/\nhttp://listverse.com/2009/04/21/top-10-misconceptions-about-the-vikings/\nhttp://www.straightdope.com/columns/read/2189/did-vikings-really-wear-horns-on-their-helmets/\nhttps://www.historyonthenet.com/viking-myths-and-misconceptions/\nhttp://norse-mythology.net/myths-and-misconceptions-about-the-vikings/\nhttp://www.bbc.com/news/magazine-26431858\nhttp://www.worldtreeproject.org/exhibits/show/miscon/dirtyvikes\nhttps://www.history.com/news/did-vikings-really-wear-horned-helmets\n\n\nКолумб:\n\nНе открывал Америку:\nhttps://www.washingtonpost.com/news/answer-sheet/wp/2013/10/14/christopher-columbus-3-things-you-think-he-did-that-he-didnt/?utm_term=.46a0bee6eac1\n\nМифы о Колумбе:\nhttps://www.livescience.com/16468-christopher-columbus-myths-flat-earth-discovered-americas.html\n\nБиография:\nhttps://www.history.com/topics/exploration/christopher-columbus\n\nХронология экспедиций\nhttps://ria.ru/spravka/20120803/714919616.html\n\nАмериго\nhttps://www.history.com/topics/exploration/amerigo-vespucci\nhttps://amerigoves.weebly.com/travel-routes.html\n\nЛейф\nhttp://www.leiferikson.org/Shilshole.htm\n\nЭрик Рыжий\nhttp://exploration.marinersmuseum.org/subject/erik-the-red/\n\n\n\n\nProduction Music courtesy of Epidemic Sound!"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "2473871",
+        "likeCount": "192392",
+        "dislikeCount": "3503",
+        "favoriteCount": "0",
+        "commentCount": "10997"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/jDPYICf2iZf3zeuMDKYaH8GX_R4\"",
+      "id": "OdxdJqIrIHw",
+      "snippet": {
+        "publishedAt": "2017-07-28T13:00:01.000Z",
+        "channelId": "UCZAs26LaR0C9YIiPAqfJVrA",
+        "title": "5 СМЕШНЫХ СМЕРТЕЙ ЗНАМЕНИТОСТЕЙ / ГРЯЗНЫЕ ШУТКИ ПРО СМЕРТЬ",
+        "description": "КАНАЛ АЗЗИ - https://goo.gl/VVxqFR\n------------------------------\nМОЯ СТРАНИЦА В ВК - https://vk.com/star_ray\nМОЙ ПАБЛИК В ВК - http://vk.com/starrayshow\nМОЙ INSTAGRAM - https://www.instagram.com/star_ray\nКУПИТЬ РЕКЛАМУ - http://vk.cc/4fGrcW\n-------------------------------\nНедавно умер Честер Беннингтон, фронтмен группы Linkin Park. Вокалист совершил самоубийство, так что в этом ролике хочется поговорить про смерти знаменитостей и какая из них была самой смешной!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdxdJqIrIHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdxdJqIrIHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdxdJqIrIHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OdxdJqIrIHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OdxdJqIrIHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "СТАР РЕЙ",
+        "tags": [
+          "5 СМЕШНЫХ СМЕРТЕЙ ЗНАМЕНИТОСТЕЙ",
+          "ГРЯЗНЫЕ ШУТКИ ПРО СМЕРТЬ",
+          "курт кобейн",
+          "честер беннингтон",
+          "Смерть честера беннингтона",
+          "честер беннингтон умер",
+          "топ 5 смертей",
+          "смерть",
+          "убийство",
+          "смерти знаменитостей",
+          "Стар Рей",
+          "самоубийство",
+          "суицид",
+          "Linkin Park",
+          "Линкин Парк"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "5 СМЕШНЫХ СМЕРТЕЙ ЗНАМЕНИТОСТЕЙ / ГРЯЗНЫЕ ШУТКИ ПРО СМЕРТЬ",
+          "description": "КАНАЛ АЗЗИ - https://goo.gl/VVxqFR\n------------------------------\nМОЯ СТРАНИЦА В ВК - https://vk.com/star_ray\nМОЙ ПАБЛИК В ВК - http://vk.com/starrayshow\nМОЙ INSTAGRAM - https://www.instagram.com/star_ray\nКУПИТЬ РЕКЛАМУ - http://vk.cc/4fGrcW\n-------------------------------\nНедавно умер Честер Беннингтон, фронтмен группы Linkin Park. Вокалист совершил самоубийство, так что в этом ролике хочется поговорить про смерти знаменитостей и какая из них была самой смешной!"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "37563",
+        "likeCount": "3511",
+        "dislikeCount": "1175",
+        "favoriteCount": "0",
+        "commentCount": "524"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/grvXBu00hdAWSKVAG1my-harZHM\"",
+      "id": "Rg9s6SGf_ts",
+      "snippet": {
+        "publishedAt": "2011-01-27T15:46:24.000Z",
+        "channelId": "UCmVxG1no33GY4wwdEs0ZQuw",
+        "title": "Скрябін - Кольорова (HD)",
+        "description": "Подпишись на новые видео - http://bit.ly/nhFOTS\r\n\r\nhttp://www.moon.ua \r\nhttp://www.facebook.com/moonua\r\nhttp://www.myspace.com/moonrec \r\nhttp://twitter.com/moonrec",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rg9s6SGf_ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rg9s6SGf_ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rg9s6SGf_ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rg9s6SGf_ts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Moon Records",
+        "tags": [
+          "мун рекордс",
+          "moon records ukraine",
+          "скрябін",
+          "кольорова"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Скрябін - Кольорова (HD)",
+          "description": "Подпишись на новые видео - http://bit.ly/nhFOTS\r\n\r\nhttp://www.moon.ua \r\nhttp://www.facebook.com/moonua\r\nhttp://www.myspace.com/moonrec \r\nhttp://twitter.com/moonrec"
+        }
+      },
+      "statistics": {
+        "viewCount": "3055395",
+        "likeCount": "12263",
+        "dislikeCount": "370",
+        "favoriteCount": "0",
+        "commentCount": "569"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/d3bIq-_cQhJkF6Gga0T0XEyGemg\"",
+      "id": "0dMAr44moyQ",
+      "snippet": {
+        "publishedAt": "2016-01-15T17:18:36.000Z",
+        "channelId": "UC890C2g-kF7fKiIv9bP8zZA",
+        "title": "Stil Ryder - Мама, я педофил",
+        "description": "Группа в \"ВКонтакте\" - https://vk.com/getmusicshow\nЯ а \"Steam\" - http://steamcommunity.com/id/thegetta...\nПочта \"Yandex.ru\" - thegettasshow@yandex.ru\nКошелёк \"ЯндексДеньги\" - 410013576903505\nТекст песни:\nТы смотришь мне в глаза, я оценил декольте, Плевать,что ты несешь,мне не важен контент. Еще бокал - наша дружба наберет обороты, Я уже твой любовник,бойфренд, да кто угодно! Ее отменный зад не идет,а порхает, Дело здесь не в том,что наша дама немного бухая. Ее губы сладкие,как самая сладкая вата, Ее аромат срывает больше,чем любые бланты. Ловим такси,едем к тебе,захожу, закрывай, Уже не маленькие - к черту гребаный чай! Сейчас нам лучше всех наедине,не говори.. Где я возьму тебя неважно - детка мы горим. Завтра я вряд ли буду вспоминать ваше имя, Эта ночь,в хорошем смысле,мисс,была как малерия! Все я ухожу,сори,споткнулся о какой-то быт, Понимаю,как же влип, ведь это был дневник! П(2) Надеюсь это пранк,но никаких оваций, Ей даже не 17,твой мать,ей не 16! Боже,это не сон,черт, она без трусов, Мама,я педофил,среди тысяч тесаков!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0dMAr44moyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0dMAr44moyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0dMAr44moyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0dMAr44moyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0dMAr44moyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GetMusicShow",
+        "tags": [
+          "stil",
+          "мама",
+          "клипы",
+          "гмс",
+          "лол",
+          "ккб",
+          "аахахах",
+          "педофил",
+          "ryder",
+          "новый клип",
+          "gms"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stil Ryder - Мама, я педофил",
+          "description": "Группа в \"ВКонтакте\" - https://vk.com/getmusicshow\nЯ а \"Steam\" - http://steamcommunity.com/id/thegetta...\nПочта \"Yandex.ru\" - thegettasshow@yandex.ru\nКошелёк \"ЯндексДеньги\" - 410013576903505\nТекст песни:\nТы смотришь мне в глаза, я оценил декольте, Плевать,что ты несешь,мне не важен контент. Еще бокал - наша дружба наберет обороты, Я уже твой любовник,бойфренд, да кто угодно! Ее отменный зад не идет,а порхает, Дело здесь не в том,что наша дама немного бухая. Ее губы сладкие,как самая сладкая вата, Ее аромат срывает больше,чем любые бланты. Ловим такси,едем к тебе,захожу, закрывай, Уже не маленькие - к черту гребаный чай! Сейчас нам лучше всех наедине,не говори.. Где я возьму тебя неважно - детка мы горим. Завтра я вряд ли буду вспоминать ваше имя, Эта ночь,в хорошем смысле,мисс,была как малерия! Все я ухожу,сори,споткнулся о какой-то быт, Понимаю,как же влип, ведь это был дневник! П(2) Надеюсь это пранк,но никаких оваций, Ей даже не 17,твой мать,ей не 16! Боже,это не сон,черт, она без трусов, Мама,я педофил,среди тысяч тесаков!"
+        }
+      },
+      "statistics": {
+        "viewCount": "3228467",
+        "likeCount": "59621",
+        "dislikeCount": "3199",
+        "favoriteCount": "0",
+        "commentCount": "3243"
+      }
+    }
+  ]
+}
