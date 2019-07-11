@@ -55,47 +55,46 @@ export default class MainComponent extends React.Component {
     player = YouTubePlayer('video-player')
     player.setVolume(currentVolume)
 
-    VoiceEvent.addEvent(
-      'тест',
-      () => this.setAmyReady(true),
-      {
-        nestedEvents: [
-          {
-            command: 'включи музику',
-            actions: [() => {
-              player.loadVideoById('L4eljjBtlRw')
-              player.playVideo()
-              this.setAmyReady(false)
-            }]
-          },
-          {
-            command: 'зупини музику',
-            actions: [() => {
-              player.stopVideo()
-              this.setAmyReady(false)
-            }]
-          },
-          {
-            command: 'збільшити звук',
-            actions: [() => {
-              currentVolume += 10
-              player.setVolume(currentVolume)
-              this.setAmyReady(false)
-            }]
-          },
-          {
-            command: 'зменшити звук',
-            actions: [() => {
-              currentVolume -= 10
-              player.setVolume(currentVolume)
-              this.setAmyReady(false)
-            }]
-          }
-        ]
-      }
-    )
+    // VoiceEvent.addEvent(
+    //   'тест',
+    //   () => this.setAmyReady(true),
+    //   {
+    //     nestedEvents: [
+    //       {
+    //         command: 'включи музику',
+    //         actions: [() => {
+    //           player.loadVideoById('L4eljjBtlRw')
+    //           player.playVideo()
+    //           this.setAmyReady(false)
+    //         }]
+    //       },
+    //       {
+    //         command: 'зупини музику',
+    //         actions: [() => {
+    //           player.stopVideo()
+    //           this.setAmyReady(false)
+    //         }]
+    //       },
+    //       {
+    //         command: 'збільшити звук',
+    //         actions: [() => {
+    //           currentVolume += 10
+    //           player.setVolume(currentVolume)
+    //           this.setAmyReady(false)
+    //         }]
+    //       },
+    //       {
+    //         command: 'зменшити звук',
+    //         actions: [() => {
+    //           currentVolume -= 10
+    //           player.setVolume(currentVolume)
+    //           this.setAmyReady(false)
+    //         }]
+    //       }
+    //     ]
+    //   }
+    // )
 
-    VoiceEvent.init('uk-UA')
   }
 
   synchronize () {

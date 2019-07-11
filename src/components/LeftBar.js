@@ -1,14 +1,12 @@
-import React, { useState } from 'react'
+import React from 'react'
 import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemText from '@material-ui/core/ListItemText'
 import ListItemAvatar from '@material-ui/core/ListItemAvatar'
 import Avatar from '@material-ui/core/Avatar'
-import WorkIcon from '@material-ui/icons/Work'
 import Home from '@material-ui/icons/Home'
 import Subscriptions from '@material-ui/icons/Subscriptions'
 import styled from 'styled-components'
-import Switch from '@material-ui/core/Switch'
 import Settings from '@material-ui/icons/Settings'
 import Layers from '@material-ui/icons/Layers'
 import LibraryMusic from '@material-ui/icons/LibraryMusic'
@@ -17,6 +15,8 @@ import PowerSettingsNew from '@material-ui/icons/PowerSettingsNew'
 import VoiceEvent from './../../index'
 import Fab from '@material-ui/core/Fab'
 import Loader from './Loader'
+import Popover from '@material-ui/core/Popover'
+import Typography from '@material-ui/core/Typography'
 
 const ListStyle = styled(List)`
   && {
@@ -71,90 +71,136 @@ const ListStyle = styled(List)`
   }
 `
 
-export default () => {
-  const [voice, setVoice] = useState(false)
+export default class LeftBarComponent extends React.Component {
+  constructor (props) {
+    super(props)
 
-  const voiceChange = () => {
-    if (!voice) {
+    this.myRef = React.createRef()
+    this.state = {
+      voice: false,
+      isAmyReady: false,
+      speech: ''
+    }
+    let events = []
+    this.setVoice = value => this.setState({ voice: value })
+    this.setSpeech = value => this.setState({ speech: value })
+    this.setAmyReady = value => {
+      this.setState({ isAmyReady: value })
+      events.forEach(event => event())
+      events = []
+      events.push(...[
+        VoiceEvent.addEvent('включи музику', () => console.log(VoiceEvent)),
+        VoiceEvent.addEvent('зупини музику', () => console.log('Виключи')),
+        VoiceEvent.addChangeEvent(this.setSpeech)
+      ])
+    }
+  }
+
+  componentDidMount () {
+    VoiceEvent.init('uk-UA')
+
+    VoiceEvent.addEvent(
+      'емі',
+      () => {
+        this.setAmyReady(true)
+        setTimeout(() => this.setAmyReady(false), 5000)
+      }
+    )
+  }
+
+  voiceChange = () => {
+    if (!this.state.voice) {
       VoiceEvent.startRecognition()
     } else {
       VoiceEvent.stopRecognition()
     }
-    setVoice(!voice)
+    this.setVoice(!this.state.voice)
   }
 
-  return <ListStyle>
-    <ListItem className="power-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <Fab onClick={voiceChange}
-               aria-label="Add"
-               className={`power-btn ${ voice ? 'active' : '' }`}>
-            <PowerSettingsNew />
-          </Fab>
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText>
-        <Loader/>
-      </ListItemText>
-    </ListItem>
-    <hr/>
-    {/*<ListItem className="menu-item onoff-btn" onClick={voiceChange}>*/}
-      {/*<ListItemAvatar>*/}
-        {/*<Avatar className="avatar">*/}
-          {/*<Switch value="checkedA" />*/}
-        {/*</Avatar>*/}
-      {/*</ListItemAvatar>*/}
-      {/*<ListItemText primary="Amy listens to you" />*/}
-    {/*</ListItem>*/}
-    <ListItem className="menu-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <Home/>
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText primary="Home" />
-    </ListItem>
-    <ListItem className="menu-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <Subscriptions />
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText primary="Youtube" />
-    </ListItem>
-    <ListItem className="menu-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <LibraryMusic />
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText primary="Music" />
-    </ListItem>
-    <ListItem className="menu-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <Movie />
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText primary="Movies" />
-    </ListItem>
-    <ListItem className="menu-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <Layers />
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText primary="Pages" />
-    </ListItem>
-    <ListItem className="menu-item">
-      <ListItemAvatar>
-        <Avatar className="icon">
-          <Settings />
-        </Avatar>
-      </ListItemAvatar>
-      <ListItemText primary="Settings" />
-    </ListItem>
-  </ListStyle>
+  render () {
+    const { voice, isAmyReady, speech } = this.state
 
+    return <ListStyle>
+      <ListItem className="power-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <Fab onClick={this.voiceChange}
+                 aria-label="Add"
+                 className={`power-btn ${ voice ? 'active' : '' }`}>
+              <PowerSettingsNew />
+            </Fab>
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText ref={this.myRef}>
+          { isAmyReady ?
+            <React.Fragment>
+              <Loader/>
+              { this.myRef.current ? <Popover
+                open={true}
+                anchorEl={this.myRef.current}
+                anchorOrigin={{
+                  vertical: 'center',
+                  horizontal: 'right',
+                }}
+                transformOrigin={{
+                  vertical: 'center',
+                  horizontal: 'left',
+                }}>
+                <Typography
+                  className="popover">asdasd asd</Typography>
+              </Popover> : null }
+            </React.Fragment> : null }
+        </ListItemText>
+      </ListItem>
+      <hr/>
+      <ListItem className="menu-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <Home/>
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText primary="Home" />
+      </ListItem>
+      <ListItem className="menu-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <Subscriptions />
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText primary="Youtube" />
+      </ListItem>
+      <ListItem className="menu-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <LibraryMusic />
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText primary="Music" />
+      </ListItem>
+      <ListItem className="menu-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <Movie />
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText primary="Movies" />
+      </ListItem>
+      <ListItem className="menu-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <Layers />
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText primary="Pages" />
+      </ListItem>
+      <ListItem className="menu-item">
+        <ListItemAvatar>
+          <Avatar className="icon">
+            <Settings />
+          </Avatar>
+        </ListItemAvatar>
+        <ListItemText primary="Settings" />
+      </ListItem>
+    </ListStyle>
+  }
 }

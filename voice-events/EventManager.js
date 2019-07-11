@@ -20,14 +20,21 @@ export default class EventManager {
 
     addEvent(voiceCommand, callback, args) {
         let voiceEvent = this.events.find(item => item.equals(voiceCommand))
+        let index
         if (!voiceEvent) {
             this.events.push(buildVoiceEvent(voiceCommand, callback, args))
+            index = this.events.length - 1
         } else {
             //TODO: check if nested events changed
             voiceEvent.addAction(callback)
-            const index = this.events.findIndex(element => element.equals(voiceCommand))
+            index = this.events.findIndex(element => element.equals(voiceCommand))
             this.events[index] = voiceEvent
         }
+        return () => this.events.splice(index, 1)
+    }
+
+    addChangeEvent(callback) {
+        return this.editor.addEvent('result', callback)
     }
 
     recognizeCommand(speech) {

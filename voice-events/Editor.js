@@ -7,11 +7,10 @@ export default class Editor {
         this.events = null
         this.result = null
         this.timeout = null
-        this.init()
-        this.attachEvents()
     }
 
     init(language) {
+        console.log(' i am here ')
         this.events = {
             result: []
             , start: []
@@ -19,8 +18,9 @@ export default class Editor {
             , error: []
         }
         this.recognition.lang = language
-        this.recognition.continuous = true
+        // this.recognition.continuous = true
         this.recognition.interimResults = true
+        this.attachEvents()
     }
 
     attachEvents() {
@@ -44,7 +44,8 @@ export default class Editor {
                 }
                 this.timeout = setTimeout(() => {
                     console.log('events', this.result)
-                    this.events.result.forEach(fn => fn(this.result))
+                    const result = this.result
+                    this.events.result.forEach(fn => fn(result))
                 }, 500)
             }
         }
@@ -55,6 +56,10 @@ export default class Editor {
 
     addEvent(type, callback) {
         this.events[type].push(callback)
+        return () => {
+            const event = this.events[type]
+            event.splice(event.length - 1, 1)
+        }
     }
 
     lang(lang) {

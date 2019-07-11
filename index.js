@@ -8,5 +8,6 @@ export default {
     init: eventManager.init.bind(eventManager),
     startRecognition: editor.start.bind(editor),
     stopRecognition: editor.stop.bind(editor),
-    addEvent: eventManager.addEvent.bind(eventManager)
+    addEvent: eventManager.addEvent.bind(eventManager),
+    addChangeEvent: eventManager.addChangeEvent.bind(eventManager)
 }
